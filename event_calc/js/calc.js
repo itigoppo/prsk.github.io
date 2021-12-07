@@ -1,10 +1,9 @@
 $(function () {
-    var bonus = 0;
     $('input:radio').change(function () {
-        var card = $(this).parent().parent().attr('id');
+        const card = $(this).parent().parent().attr('id');
         // PUならタイプボーナスとユニットボーナスはかならずある
         if ($(this).attr('name') === card + '-rare') {
-            var rare = $(this).attr('id');
+            let rare = $(this).attr('id');
             rare = rare.replace(card + '-rare-', '');
             if (rare === 'pu') {
                 $('input[id="'+ card + '-type-on"]').prop('checked', true);
@@ -17,37 +16,39 @@ $(function () {
     $('span#bonus').html(calc('card1') + calc('card2') + calc('card3') + calc('card4') + calc('card5'));
 });
 
-function calc(card)
-{
-    var rare = $('input[name="'+ card + '-rare"]:checked').attr('id');
+const calc = (card) => {
+    let rare = $('input[name="' + card + '-rare"]:checked').attr('id');
     if (rare ?? false) {
         rare = rare.replace(card + '-rare-', '');
     }
-    var rank = $('input[name="'+ card + '-master-rank"]:checked').attr('id');
+    let rank = $('input[name="' + card + '-master-rank"]:checked').attr('id');
     if (rank ?? false) {
         rank = rank.replace(card + '-master-rank', '');
     }
-    var type = $('input[name="'+ card + '-type"]:checked').attr('id');
+    let type = $('input[name="' + card + '-type"]:checked').attr('id');
     if (type ?? false) {
         type = type.replace(card + '-type-', '');
     }
-    var unit = $('input[name="'+ card + '-unit"]:checked').attr('id');
+    let unit = $('input[name="' + card + '-unit"]:checked').attr('id');
     if (unit ?? false) {
         unit = unit.replace(card + '-unit-', '');
     }
 
-    var bonus = 0;
+    let bonus = 0;
     if (type === 'on') {
         bonus += 25;
     }
     if (unit === 'on') {
         bonus += 25;
     }
+    if (unit === 'vs') {
+        bonus += 15;
+    }
     if (rare === 'pu') {
         bonus += 20;
     }
 
-    var rankRate = {
+    const rankRate = {
         pu: 2,
         star4: 2,
         br: 1.5,
