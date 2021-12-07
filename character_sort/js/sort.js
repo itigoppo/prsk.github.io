@@ -239,7 +239,7 @@ const calc = (index) => {
 const showDefault = () => {
     let showMember = "";
     for (let [key, value] of Object.entries(members)) {
-        showMember += "<div class=\"col-3 my-1\"><div class=\"card\">" + toNameFace(key) + "</div></div>";
+        showMember += "<div class=\"col-md-3 col-sm-6 my-1\"><div class=\"card\">" + toNameFace(key) + "</div></div>";
     }
 
     const resultField = $("#resultField");
