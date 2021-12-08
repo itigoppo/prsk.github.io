@@ -61,6 +61,9 @@ const loadMembers = () => {
 
     $.getJSON("../data/members.json", function (data) {
         $(data.members).each(function () {
+            if (!this.is_active) {
+                return true;
+            }
             const unit = units[this.unit_id];
             const member = {
                 id: this.id,
