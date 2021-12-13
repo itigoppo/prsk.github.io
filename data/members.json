@@ -152,7 +152,7 @@
       "unit_id": 3,
       "member": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
-      "is_active": false
+      "is_active": true
     },
     {
       "id": "mmj_minori",
