@@ -208,7 +208,7 @@
       "unit_id": 4,
       "member": "巡音ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
-      "is_active": false
+      "is_active": true
     },
     {
       "id": "vbs_meiko",
