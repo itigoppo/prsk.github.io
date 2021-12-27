@@ -4,392 +4,504 @@
       "id": "vs_miku",
       "unit_id": 1,
       "member": "初音ミク",
+      "short": "ミク",
       "image": "../data/icon/icon_01_unit01_miku.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "vs_rin",
       "unit_id": 1,
       "member": "鏡音リン",
+      "short": "リン",
       "image": "../data/icon/icon_02_unit01_rin.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "vs_len",
       "unit_id": 1,
       "member": "鏡音レン",
+      "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
+      "color": "#ffee11",
       "is_active": true
     },
     {
       "id": "vs_luka",
       "unit_id": 1,
       "member": "巡音ルカ",
+      "short": "ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "vs_meiko",
       "unit_id": 1,
       "member": "MEIKO",
+      "short": "MEIKO",
       "image": "../data/icon/icon_05_unit01_meiko.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "vs_kaito",
       "unit_id": 1,
       "member": "KAITO",
+      "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
+      "color": "#3366cc",
       "is_active": true
     },
     {
       "id": "ln_miku",
       "unit_id": 2,
       "member": "初音ミク",
-      "image": "../data/icon/icon_05_unit02_miku.png",
+      "short": "ミク",
+      "image": "../data/icon/icon_05_unit02_miku_02.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "ln_rin",
       "unit_id": 2,
       "member": "鏡音リン",
+      "short": "リン",
       "image": "../data/icon/icon_02_unit01_rin.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "ln_len",
       "unit_id": 2,
       "member": "鏡音レン",
+      "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
+      "color": "#ffee11",
       "is_active": true
     },
     {
       "id": "ln_luka",
       "unit_id": 2,
       "member": "巡音ルカ",
-      "image": "../data/icon/icon_06_unit02_luka.png",
+      "short": "ルカ",
+      "image": "../data/icon/icon_06_unit02_luka_02.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "ln_meiko",
       "unit_id": 2,
       "member": "MEIKO",
+      "short": "MEIKO",
       "image": "../data/icon/icon_05_unit01_meiko.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "ln_kaito",
       "unit_id": 2,
       "member": "KAITO",
+      "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
+      "color": "#3366cc",
       "is_active": true
     },
     {
       "id": "ln_ichica",
       "unit_id": 2,
       "member": "星乃一歌",
-      "image": "../data/icon/icon_01_unit02_ichica.png",
+      "short": "一歌",
+      "image": "../data/icon/icon_01_unit02_ichica_02.png",
+      "color": "#33aaee",
       "is_active": true
     },
     {
       "id": "ln_saki",
       "unit_id": 2,
       "member": "天馬咲希",
-      "image": "../data/icon/icon_02_unit02_saki.png",
+      "short": "咲希",
+      "image": "../data/icon/icon_02_unit02_saki_02.png",
+      "color": "#ffdd44",
       "is_active": true
     },
     {
       "id": "ln_honami",
       "unit_id": 2,
       "member": "望月穂波",
-      "image": "../data/icon/icon_03_unit02_honami.png",
+      "short": "穂波",
+      "image": "../data/icon/icon_03_unit02_honami_02.png",
+      "color": "#ee6666",
       "is_active": true
     },
     {
       "id": "ln_shiho",
       "unit_id": 2,
       "member": "日野森志歩",
-      "image": "../data/icon/icon_04_unit02_shiho.png",
+      "short": "志歩",
+      "image": "../data/icon/icon_04_unit02_shiho_02.png",
+      "color": "#bbdd22",
       "is_active": true
     },
     {
       "id": "mmj_miku",
       "unit_id": 3,
       "member": "初音ミク",
-      "image": "../data/icon/icon_05_unit03_miku.png",
+      "short": "ミク",
+      "image": "../data/icon/icon_05_unit03_miku_02.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "mmj_rin",
       "unit_id": 3,
       "member": "鏡音リン",
-      "image": "../data/icon/icon_06_unit03_rin.png",
+      "short": "リン",
+      "image": "../data/icon/icon_06_unit03_rin_02.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "mmj_len",
       "unit_id": 3,
       "member": "鏡音レン",
+      "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
+      "color": "#ffee11",
       "is_active": true
     },
     {
       "id": "mmj_luka",
       "unit_id": 3,
       "member": "巡音ルカ",
+      "short": "ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "mmj_meiko",
       "unit_id": 3,
       "member": "MEIKO",
+      "short": "MEIKO",
       "image": "../data/icon/icon_05_unit01_meiko.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "mmj_kaito",
       "unit_id": 3,
       "member": "KAITO",
+      "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
+      "color": "#3366cc",
       "is_active": true
     },
     {
       "id": "mmj_minori",
       "unit_id": 3,
       "member": "花里みのり",
-      "image": "../data/icon/icon_01_unit03_minori.png",
+      "short": "みのり",
+      "image": "../data/icon/icon_01_unit03_minori_02.png",
+      "color": "#ffccaa",
       "is_active": true
     },
     {
       "id": "mmj_haruka",
       "unit_id": 3,
       "member": "桐谷遥",
-      "image": "../data/icon/icon_02_unit03_haruka.png",
+      "short": "遥",
+      "image": "../data/icon/icon_02_unit03_haruka_02.png",
+      "color": "#99ccff",
       "is_active": true
     },
     {
       "id": "mmj_airi",
       "unit_id": 3,
       "member": "桃井愛莉",
-      "image": "../data/icon/icon_03_unit03_airi.png",
+      "short": "愛莉",
+      "image": "../data/icon/icon_03_unit03_airi_02.png",
+      "color": "#ffaacc",
       "is_active": true
     },
     {
       "id": "mmj_shizuku",
       "unit_id": 3,
       "member": "日野森雫",
-      "image": "../data/icon/icon_04_unit03_shizuku.png",
+      "short": "雫",
+      "image": "../data/icon/icon_04_unit03_shizuku_02.png",
+      "color": "#99eedd",
       "is_active": true
     },
     {
       "id": "vbs_miku",
       "unit_id": 4,
       "member": "初音ミク",
-      "image": "../data/icon/icon_05_unit04_miku.png",
+      "short": "ミク",
+      "image": "../data/icon/icon_05_unit04_miku_02.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "vbs_rin",
       "unit_id": 4,
       "member": "鏡音リン",
+      "short": "リン",
       "image": "../data/icon/icon_02_unit01_rin.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "vbs_len",
       "unit_id": 4,
       "member": "鏡音レン",
-      "image": "../data/icon/icon_06_unit04_len.png",
+      "short": "レン",
+      "image": "../data/icon/icon_06_unit04_len_02.png",
+      "color": "#ffee11",
       "is_active": true
     },
     {
       "id": "vbs_luka",
       "unit_id": 4,
       "member": "巡音ルカ",
+      "short": "ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "vbs_meiko",
       "unit_id": 4,
       "member": "MEIKO",
-      "image": "../data/icon/icon_07_unit04_meiko.png",
+      "short": "MEIKO",
+      "image": "../data/icon/icon_07_unit04_meiko_02.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "vbs_kaito",
       "unit_id": 4,
       "member": "KAITO",
+      "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
+      "color": "#3366cc",
       "is_active": true
     },
     {
       "id": "vbs_kohane",
       "unit_id": 4,
       "member": "小豆沢こはね",
-      "image": "../data/icon/icon_01_unit04_kohane.png",
+      "short": "こはね",
+      "image": "../data/icon/icon_01_unit04_kohane_02.png",
+      "color": "#ff6699",
       "is_active": true
     },
     {
       "id": "vbs_an",
       "unit_id": 4,
       "member": "白石杏",
-      "image": "../data/icon/icon_02_unit04_an.png",
+      "short": "杏",
+      "image": "../data/icon/icon_02_unit04_an_02.png",
+      "color": "#00bbdd",
       "is_active": true
     },
     {
       "id": "vbs_akito",
       "unit_id": 4,
       "member": "東雲彰人",
-      "image": "../data/icon/icon_03_unit04_akito.png",
+      "short": "彰人",
+      "image": "../data/icon/icon_03_unit04_akito_02.png",
+      "color": "#ff7722",
       "is_active": true
     },
     {
       "id": "vbs_toya",
       "unit_id": 4,
       "member": "青柳冬弥",
-      "image": "../data/icon/icon_04_unit04_toya.png",
+      "short": "冬弥",
+      "image": "../data/icon/icon_04_unit04_toya_02.png",
+      "color": "#0077dd",
       "is_active": true
     },
     {
       "id": "ws_miku",
       "unit_id": 5,
       "member": "初音ミク",
-      "image": "../data/icon/icon_05_unit05_miku.png",
+      "short": "ミク",
+      "image": "../data/icon/icon_05_unit05_miku_02.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "ws_rin",
       "unit_id": 5,
       "member": "鏡音リン",
+      "short": "リン",
       "image": "../data/icon/icon_02_unit01_rin.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "ws_len",
       "unit_id": 5,
       "member": "鏡音レン",
+      "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
+      "color": "#ffee11",
       "is_active": true
     },
     {
       "id": "ws_luka",
       "unit_id": 5,
       "member": "巡音ルカ",
+      "short": "ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "ws_meiko",
       "unit_id": 5,
       "member": "MEIKO",
+      "short": "MEIKO",
       "image": "../data/icon/icon_05_unit01_meiko.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "ws_kaito",
       "unit_id": 5,
       "member": "KAITO",
-      "image": "../data/icon/icon_06_unit05_kaito.png",
+      "short": "KAITO",
+      "image": "../data/icon/icon_06_unit05_kaito_02.png",
+      "color": "#3366cc",
       "is_active": true
     },
     {
       "id": "ws_tsukasa",
       "unit_id": 5,
       "member": "天馬司",
-      "image": "../data/icon/icon_01_unit05_tsukasa.png",
+      "short": "司",
+      "image": "../data/icon/icon_01_unit05_tsukasa_02.png",
+      "color": "#ffbb00",
       "is_active": true
     },
     {
       "id": "ws_emu",
       "unit_id": 5,
       "member": "鳳えむ",
-      "image": "../data/icon/icon_02_unit05_emu.png",
+      "short": "えむ",
+      "image": "../data/icon/icon_02_unit05_emu_02.png",
+      "color": "#ff66bb",
       "is_active": true
     },
     {
       "id": "ws_nene",
       "unit_id": 5,
       "member": "草薙寧々",
-      "image": "../data/icon/icon_03_unit05_nene.png",
+      "short": "寧々",
+      "image": "../data/icon/icon_03_unit05_nene_02.png",
+      "color": "#33dd99",
       "is_active": true
     },
     {
       "id": "ws_rui",
       "unit_id": 5,
       "member": "神代類",
-      "image": "../data/icon/icon_04_unit05_rui.png",
+      "short": "類",
+      "image": "../data/icon/icon_04_unit05_rui_02.png",
+      "color": "#bb88ee",
       "is_active": true
     },
     {
       "id": "25_miku",
       "unit_id": 6,
       "member": "初音ミク",
-      "image": "../data/icon/icon_05_unit06_miku.png",
+      "short": "ミク",
+      "image": "../data/icon/icon_05_unit06_miku_02.png",
+      "color": "#33ccbb",
       "is_active": true
     },
     {
       "id": "25_rin",
       "unit_id": 6,
       "member": "鏡音リン",
+      "short": "リン",
       "image": "../data/icon/icon_02_unit01_rin.png",
+      "color": "#ffcc11",
       "is_active": true
     },
     {
       "id": "25_len",
       "unit_id": 6,
       "member": "鏡音レン",
+      "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
+      "color": "#ffee11",
       "is_active": false
     },
     {
       "id": "25_luka",
       "unit_id": 6,
       "member": "巡音ルカ",
+      "short": "ルカ",
       "image": "../data/icon/icon_04_unit01_luka.png",
+      "color": "#ffbbcc",
       "is_active": true
     },
     {
       "id": "25_meiko",
       "unit_id": 6,
       "member": "MEIKO",
+      "short": "MEIKO",
       "image": "../data/icon/icon_05_unit01_meiko.png",
+      "color": "#dd4444",
       "is_active": true
     },
     {
       "id": "25_kaito",
       "unit_id": 6,
       "member": "KAITO",
+      "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
+      "color": "#3366cc",
       "is_active": false
     },
     {
       "id": "25_kanade",
       "unit_id": 6,
       "member": "宵崎奏",
-      "image": "../data/icon/icon_01_unit06_kanade.png",
+      "short": "奏",
+      "image": "../data/icon/icon_01_unit06_kanade_02.png",
+      "color": "#bb6688",
       "is_active": true
     },
     {
       "id": "25_mafuyu",
       "unit_id": 6,
       "member": "朝比奈まふゆ",
-      "image": "../data/icon/icon_02_unit06_mafuyu.png",
+      "short": "まふゆ",
+      "image": "../data/icon/icon_02_unit06_mafuyu_02.png",
+      "color": "#8888cc",
       "is_active": true
     },
     {
       "id": "25_ena",
       "unit_id": 6,
       "member": "東雲絵名",
-      "image": "../data/icon/icon_03_unit06_ena.png",
+      "short": "絵名",
+      "image": "../data/icon/icon_03_unit06_ena_02.png",
+      "color": "#ccaa88",
       "is_active": true
     },
     {
       "id": "25_mizuki",
       "unit_id": 6,
       "member": "暁山瑞希",
-      "image": "../data/icon/icon_04_unit06_mizuki.png",
+      "short": "瑞希",
+      "image": "../data/icon/icon_04_unit06_mizuki_02.png",
+      "color": "#ddaacc",
       "is_active": true
     }
   ]
