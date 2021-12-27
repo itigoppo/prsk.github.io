@@ -19,7 +19,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MW8ES70LY8"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-MW8ES70LY8');
@@ -34,7 +38,8 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="../"><i class="bi bi-moon-stars-fill"></i> プロセカ関係モノオキ</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -46,7 +51,8 @@
                         <a class="nav-link" href="../event_calc/">イベントボーナスポイント計算機</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">キャラソート <i class="bi bi-arrow-left-circle"></i></a>
+                        <a class="nav-link active" aria-current="page" href="#">キャラソート <i
+                            class="bi bi-arrow-left-circle"></i></a>
                     </li>
                 </ul>
             </div>
@@ -55,36 +61,40 @@
 </header>
 
 <main>
-    <i id="pagetop" class="bi bi-arrow-up-circle-fill" style="font-size: 2rem; position: fixed; bottom: 5%; right: 5%; cursor: pointer; z-index: 100;"></i>
+    <i id="page-top" class="bi bi-arrow-up-circle-fill"
+       style="font-size: 2rem; position: fixed; bottom: 5%; right: 5%; cursor: pointer; z-index: 100;"></i>
 
-    <div id="battleNumber" class="alert alert-secondary my-2 w-50 mx-auto">
-    </div>
-
-    <div class="w-50 mx-auto text-center">
-        好きな方（または引き分け）を選択してください。
-
-        <div class="progress my-2">
-            <div id="result-progress" class="progress-bar progress-bar-striped bg-info" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+    <div class="container-fluid">
+        <div id="battleNumber" class="alert alert-secondary my-2 w-50 mx-auto">
         </div>
 
-        <button id="reset" class="btn btn-secondary btn-sm">やり直す</button>
-    </div>
+        <div class="w-50 mx-auto text-center">
+            好きな方（または引き分け）を選択してください。
 
-    <div class="row my-2 mx-5 align-items-center">
-        <div class="col-md-5 col-sm-12">
-            <div id="leftField" class="card" style="cursor: pointer"></div>
+            <div class="progress my-2">
+                <div id="result-progress" class="progress-bar progress-bar-striped bg-info" role="progressbar"
+                     aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+
+            <button id="reset" class="btn btn-secondary btn-sm">やり直す</button>
         </div>
-        <div class="col-md-2 col-sm-12 my-3">
-            <div id="middleField" class="card text-center" style="cursor: pointer">
-                <p class="card-text">引き分け</p>
+
+        <div class="row my-2 mx-5 align-items-center">
+            <div class="col-md-5 col-sm-12">
+                <div id="leftField" class="card" style="cursor: pointer"></div>
+            </div>
+            <div class="col-md-2 col-sm-12 my-3">
+                <div id="middleField" class="card text-center" style="cursor: pointer">
+                    <p class="card-text">引き分け</p>
+                </div>
+            </div>
+            <div class="col-md-5 col-sm-12">
+                <div id="rightField" class="card" style="cursor: pointer"></div>
             </div>
         </div>
-        <div class="col-md-5 col-sm-12">
-            <div id="rightField" class="card" style="cursor: pointer"></div>
-        </div>
-    </div>
 
-    <div class="mx-5" id="resultField">
+        <div class="mx-5" id="resultField">
+        </div>
     </div>
 </main>
 
