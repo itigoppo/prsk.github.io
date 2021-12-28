@@ -65,11 +65,12 @@
 .balloon .balloon-side {
   position: relative;
   float: left;
-  margin: 0 65px 53px 65px;
+  margin: 3px 15px 53px 65px;
 }
 
 .balloon.right .balloon-side {
   float: right;
+  margin: 3px 65px 53px 15px !important;
 }
 
 .balloon .balloon-text {
