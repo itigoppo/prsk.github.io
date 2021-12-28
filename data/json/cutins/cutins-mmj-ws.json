@@ -1,0 +1,53 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "一緒に歌えて嬉しいな"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "う、うん、わたしも"
+      },
+      "file": "../data/cutin/mmj_minori_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "みんなを笑顔にするために"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "私達の歌を届けようね"
+      },
+      "file": "../data/cutin/ws_nene_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "響け、私達の想い"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "遥ちゃん格好いい"
+      },
+      "file": "../data/cutin/mmj_haruka_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "みんな笑顔にしちゃおう"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "うん、協力するね"
+      },
+      "file": "../data/cutin/ws_emu_to_mmj_haruka_1.mp3",
+      "note": ""
+    }
+  ]
+}

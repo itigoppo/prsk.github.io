@@ -1,0 +1,391 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "ここからだね"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん、もっともっと頑張る"
+      },
+      "file": "../data/cutin/vs_rin_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "ライブ楽しいね、リンちゃん"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、まだまだ歌っていたいな"
+      },
+      "file": "../data/cutin/mmj_minori_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんなに希望をお届け"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "私も負けてられないな"
+      },
+      "file": "../data/cutin/vs_rin_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "リン、まだまだいけそう？"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "もちろん、みててね"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんなノッてる"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "リンってば絶好調ね"
+      },
+      "file": "../data/cutin/vs_rin_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "特訓の成果を見せるわよ"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "いけ、いけ、愛莉ちゃん"
+      },
+      "file": "../data/cutin/mmj_airi_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "最高の歌を届けようね"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "今日のために練習したんだものね"
+      },
+      "file": "../data/cutin/vs_rin_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "ステップ完璧だったわ"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "やった、この調子で頑張るね"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vs_rin_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "みのりちゃんファイト"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "ありがとう、よーし"
+      },
+      "file": "../data/cutin/vs_len_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "わたしもアイドルとして"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "いいね、すっごく格好いい"
+      },
+      "file": "../data/cutin/mmj_minori_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "ここは合わせようか"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "うん。いくよ、レンくん"
+      },
+      "file": "../data/cutin/vs_len_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "ここまではいい調子だね"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、みんな流石だね"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "この歌どこまで届くかな？"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "もちろん、世界の果てまでよ"
+      },
+      "file": "../data/cutin/vs_len_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "まだまだアゲていくわよ"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "おっと、負けてられないな"
+      },
+      "file": "../data/cutin/mmj_airi_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "この感じで突っ走っちゃおう"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、私達ならできるわ"
+      },
+      "file": "../data/cutin/vs_len_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "レンくん、ここからね"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、一緒に盛り上げよう"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vs_len_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "リラックスしていきましょう"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "はい。深呼吸、深呼吸"
+      },
+      "file": "../data/cutin/vs_luka_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "今のステップどうかな？"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "楽しそうですごく良かったわ"
+      },
+      "file": "../data/cutin/mmj_minori_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "想いを込めて歌いましょう"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "うん、みんなに希望を届けるために"
+      },
+      "file": "../data/cutin/vs_luka_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "みんなの想い、繋げなきゃ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、ファンのみんなのためにもね"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "たくさんの応援が聞こえるわ"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "えぇ、しっかり応えなくちゃね"
+      },
+      "file": "../data/cutin/vs_luka_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "最高のわたし達を見せるわよ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "さぁ、いきましょう"
+      },
+      "file": "../data/cutin/mmj_airi_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "みんなの歌が響き渡ってるわね"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "ファンのみんなにも届いてるかしら"
+      },
+      "file": "../data/cutin/vs_luka_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "まだまだ盛り上げたいわ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、一緒に頑張りましょう"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vs_luka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "想いを歌に乗せて"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "ステージからみんなに届け"
+      },
+      "file": "../data/cutin/vs_meiko_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "わたしにもきっと届けられる"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "みのりちゃん、ファイト"
+      },
+      "file": "../data/cutin/mmj_minori_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "ちゃんと楽しめてる？"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "うん。ありがとう、メイコ"
+      },
+      "file": "../data/cutin/vs_meiko_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "みんなが私達を待ってる"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "存分に歌っちゃって"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "ワクワクしてきたわ"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "ほんと、いいライブになりそう"
+      },
+      "file": "../data/cutin/vs_meiko_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "ファンサも忘れずに"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "流石アイドルね"
+      },
+      "file": "../data/cutin/mmj_airi_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "みんな絶好調ね"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "私も負けていられないわ"
+      },
+      "file": "../data/cutin/vs_meiko_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "全身全霊で届けたい"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、一緒に届けましょう"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vs_meiko_1.mp3",
+      "note": ""
+    }
+  ]
+}

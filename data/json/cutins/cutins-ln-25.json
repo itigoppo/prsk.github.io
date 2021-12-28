@@ -1,0 +1,28 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "わたしのドラム、どうですか？"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "すごく正確で歌いやすい"
+      },
+      "file": "../data/cutin/ln_honami_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "いいテンポできてるね"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "はい、このまま駆け抜けましょう"
+      },
+      "file": "../data/cutin/25_kanade_to_ln_honami_1.mp3",
+      "note": ""
+    }
+  ]
+}

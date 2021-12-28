@@ -1,0 +1,101 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "楽しさが伝わってくるね"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、体全部で浴びてるみたいだね"
+      },
+      "file": "../data/cutin/mmj_minori_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "一つ一つ音を重ねて"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "丁寧に、でも楽しく笑顔で"
+      },
+      "file": "../data/cutin/vbs_kohane_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "きょ、今日は私が相棒？"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "いい歌、期待してるよ"
+      },
+      "file": "../data/cutin/mmj_minori_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "さぁ、ノッていくよ"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "おぉ。か、格好いい"
+      },
+      "file": "../data/cutin/vbs_an_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "私達の想い、届けよう"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、もっともっと遠くまで"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "うぅ、ダンスって難しいな"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "大丈夫、ちゃんと踊れてるよ"
+      },
+      "file": "../data/cutin/vbs_kohane_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "杏、気を抜いちゃダメよ"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "ちょっとちょっと、誰に言ってんの？"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "遥、ちゃんとついてきてる？"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "もちろん、場数では私も負けてないんだから"
+      },
+      "file": "../data/cutin/vbs_an_to_mmj_haruka_1.mp3",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんな格好いい"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "一番はオレだがな"
+      },
+      "file": "../data/cutin/vs_rin_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "オレ達の見せ場だな"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "ワクワク、ワクワク"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "ドキドキする歌だね"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、最後まで聞きたいな"
+      },
+      "file": "../data/cutin/vs_rin_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "たくさんの笑顔のために"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "わたしも頑張って歌うね"
+      },
+      "file": "../data/cutin/ws_emu_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "ここまで絶好調"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "っていう時こそ注意しないと"
+      },
+      "file": "../data/cutin/vs_rin_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "わたしだってこれくらい"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "大丈夫、自分を信じて"
+      },
+      "file": "../data/cutin/ws_nene_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "すっごくいい感じ"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "あぁ、お手並み拝見だね"
+      },
+      "file": "../data/cutin/vs_rin_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "ショーはまだこれからだよ"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、どんどん盛り上げちゃおう"
+      },
+      "file": "../data/cutin/ws_rui_to_vs_rin_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "いい感じだね"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "あぁ、この調子でいくぞ"
+      },
+      "file": "../data/cutin/vs_len_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "よし、オレに続け"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "あはは、格好いい"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "盛り上げていこう"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、あたし得意だよ"
+      },
+      "file": "../data/cutin/vs_len_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "みんな楽しそう"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "盛り上がってる証拠だね"
+      },
+      "file": "../data/cutin/ws_emu_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "もっと前に出ちゃおうよ"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "え、あ、待って"
+      },
+      "file": "../data/cutin/vs_len_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "なんかいい感じ"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、この調子だね"
+      },
+      "file": "../data/cutin/ws_nene_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "ここはオレに任せて"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "あぁ、頼りにしてるよ"
+      },
+      "file": "../data/cutin/vs_len_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "さぁ、クライマックスだ"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、最後まで頑張ろう"
+      },
+      "file": "../data/cutin/ws_rui_to_vs_len_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "そろそろスターの出番かしらね"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "はーっはっはっは。オレを呼んだか？"
+      },
+      "file": "../data/cutin/vs_luka_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "まだまだショーは続くぞ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、楽しみましょう"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "いい調子ね"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "ルカお姉さんのおかげだよ"
+      },
+      "file": "../data/cutin/vs_luka_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "ルカお姉さんも一緒に"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、わんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "寧々ちゃんの歌、素敵ね"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "えっ、あ、ありがとう"
+      },
+      "file": "../data/cutin/vs_luka_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "自分を信じて"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "その調子よ、寧々ちゃん"
+      },
+      "file": "../data/cutin/ws_nene_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "素敵なステージね"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "盛り上がるのはここからさ"
+      },
+      "file": "../data/cutin/vs_luka_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "見せ場に備えようか"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、みんなの反応楽しみね"
+      },
+      "file": "../data/cutin/ws_rui_to_vs_luka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "ついてきてる？"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "もちろん、まだまだいけるぞ"
+      },
+      "file": "../data/cutin/vs_meiko_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "最高のショーを"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "絶対成功させましょう"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "みんな楽しんでる？"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、とってもわんだほい"
+      },
+      "file": "../data/cutin/vs_meiko_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "みんなを笑顔にできるかな？"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "もちろん。さぁ、頑張りましょう"
+      },
+      "file": "../data/cutin/ws_emu_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "順調ね、流石だわ"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "あ、ありがとう"
+      },
+      "file": "../data/cutin/vs_meiko_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "ショーはやっぱり楽しい"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "あら、いい笑顔ね"
+      },
+      "file": "../data/cutin/ws_nene_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "ここからが本番ね"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "あぁ、気を引き締めていこう"
+      },
+      "file": "../data/cutin/vs_meiko_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "僕達の出番かな"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "ふふ、燃えてきちゃうね"
+      },
+      "file": "../data/cutin/ws_rui_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "盛り上がってるね"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ふん、オレがいるからな"
+      },
+      "file": "../data/cutin/vs_kaito_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ショーはこれからだ"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "僕も協力するよ"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "疲れてないかい？"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、運動得意なんだ"
+      },
+      "file": "../data/cutin/vs_kaito_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "みんな息ピッタリ"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、気持ちがいいね"
+      },
+      "file": "../data/cutin/ws_emu_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "君も歌おう"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "う、うん、よろしく"
+      },
+      "file": "../data/cutin/vs_kaito_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "想いを歌に乗せて"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "あぁ、きっと届くよ"
+      },
+      "file": "../data/cutin/ws_nene_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "順調だね"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "ハッピーエンドも近いようだね"
+      },
+      "file": "../data/cutin/vs_kaito_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "幕が下りるまで気は抜けないね"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "大丈夫、この調子でいこう"
+      },
+      "file": "../data/cutin/ws_rui_to_vs_kaito_1.mp3",
+      "note": ""
+    }
+  ]
+}

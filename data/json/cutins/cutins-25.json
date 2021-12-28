@@ -1,0 +1,247 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "音がたくさん響いて、胸の奥が、なんか、変"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "それは、きっと「楽しい」っていう気持ちだと思う"
+      },
+      "file": "../data/cutin/25_miku_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "わたし達は一人じゃない"
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "うん、だから一緒に"
+      },
+      "file": "../data/cutin/25_kanade_to_25_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "もっと一緒に歌おう"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "うん、いいよ"
+      },
+      "file": "../data/cutin/25_miku_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "私歌えてるかな"
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "うん、ちゃんと伝わってる"
+      },
+      "file": "../data/cutin/25_mafuyu_to_25_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "絵名の歌、好き"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "え？じゃあ、頑張っちゃおうかな"
+      },
+      "file": "../data/cutin/25_miku_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "いい調子で来てるよね"
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "うん、わたしも楽しい"
+      },
+      "file": "../data/cutin/25_ena_to_25_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "瑞希、楽しい？"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "もちろん。ミクも楽しもうよ"
+      },
+      "file": "../data/cutin/25_miku_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "ミクとなら心強いね"
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "そう、嬉しいな"
+      },
+      "file": "../data/cutin/25_mizuki_to_25_miku_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "すごく、気持ちのこもった音"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "奏にはそう聞こえるんだね"
+      },
+      "file": "../data/cutin/25_kanade_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "みんな楽しそう"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "まふゆは違うの？"
+      },
+      "file": "../data/cutin/25_mafuyu_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "うん、いい音"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "ずっと聞いていたいよね"
+      },
+      "file": "../data/cutin/25_kanade_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "奏、楽しんでいこう"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "わたしは作業に戻りたい"
+      },
+      "file": "../data/cutin/25_ena_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "ちょ、ちょっと休憩"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "ダメダメ、まだこれからだよ"
+      },
+      "file": "../data/cutin/25_kanade_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "ボクもフルスロットルで頑張っちゃおうかな"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "わたしは見てるから頑張って"
+      },
+      "file": "../data/cutin/25_mizuki_to_25_kanade_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "これでいいでしょ？"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "その言い方どうにかなんない？"
+      },
+      "file": "../data/cutin/25_mafuyu_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "ふふん、このままラストまで"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "油断してると足元すくわれるよ"
+      },
+      "file": "../data/cutin/25_ena_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "瑞希、前には出ないの？"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "さりげない可愛さも必要でしょ？"
+      },
+      "file": "../data/cutin/25_mafuyu_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "部屋で録るだけじゃ、この空気は味わえないね"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "そうだね。悪く、ないかも"
+      },
+      "file": "../data/cutin/25_mizuki_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "私、注目されちゃってる？"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "はいはい、よかったね"
+      },
+      "file": "../data/cutin/25_ena_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "えななんの本気がみてみたーい"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "ちょっと、逆に調子狂うでしょ"
+      },
+      "file": "../data/cutin/25_mizuki_to_25_ena_1.mp3",
+      "note": ""
+    }
+  ]
+}

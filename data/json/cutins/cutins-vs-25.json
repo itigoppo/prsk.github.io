@@ -1,0 +1,294 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "いい感じだね"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、この調子でいきたい"
+      },
+      "file": "../data/cutin/vs_rin_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "たくさんの人に届くように"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、一生懸命歌うね"
+      },
+      "file": "../data/cutin/25_kanade_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "なんだか胸の奥が温かいね"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "なんとなく、わかるかも"
+      },
+      "file": "../data/cutin/vs_rin_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "みんな楽しそうだね"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "素敵な歌だもんね"
+      },
+      "file": "../data/cutin/25_mafuyu_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "まだまだいける？"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "これくらい余裕だから"
+      },
+      "file": "../data/cutin/vs_rin_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "ちょっとノッてきたかも"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "いいね、その調子"
+      },
+      "file": "../data/cutin/25_ena_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんなの歌素敵だね"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "ボク達も負けてられないね"
+      },
+      "file": "../data/cutin/vs_rin_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "一緒にハモってみない？"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "いいね、楽しそう"
+      },
+      "file": "../data/cutin/25_mizuki_to_vs_rin_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "一緒に奏でましょう"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、この歌が届くように"
+      },
+      "file": "../data/cutin/vs_luka_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "この歌が誰かに届くように"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、きっと届くわ"
+      },
+      "file": "../data/cutin/25_kanade_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "その想いを歌に乗せてみて"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "やれるだけやってみる"
+      },
+      "file": "../data/cutin/vs_luka_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "私は、なにも"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "大丈夫、焦らないで"
+      },
+      "file": "../data/cutin/25_mafuyu_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "その想い伝えなくていいの？"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "伝えたいに決まってる"
+      },
+      "file": "../data/cutin/vs_luka_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "私だってやれる"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "聞かせて、絵名の歌を"
+      },
+      "file": "../data/cutin/25_ena_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "さぁ、楽しみましょう"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "うん、今くらい楽しまないとね"
+      },
+      "file": "../data/cutin/vs_luka_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "最後までガンガンいくよ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、勢いは大事よね"
+      },
+      "file": "../data/cutin/25_mizuki_to_vs_luka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "いい調子ね"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、このままのペースで"
+      },
+      "file": "../data/cutin/vs_meiko_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "一緒に歌ってくれる？"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、もちろんよ"
+      },
+      "file": "../data/cutin/25_kanade_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "まふゆちゃん、調子はどう？"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "うん、問題ないよ"
+      },
+      "file": "../data/cutin/vs_meiko_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "歌う意味、あるのかな？"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、きっとあるわ"
+      },
+      "file": "../data/cutin/25_mafuyu_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "さぁ、ハメ外しちゃいましょう"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "たまにはこういうノリもいいかな"
+      },
+      "file": "../data/cutin/vs_meiko_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "徹夜明けにこれはちょっと"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "あらら、じゃあここは任せて"
+      },
+      "file": "../data/cutin/25_ena_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "まだまだここから"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "うん、もっと盛り上げていこう"
+      },
+      "file": "../data/cutin/vs_meiko_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "メイコ格好いい"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "瑞希ちゃんも素敵よ"
+      },
+      "file": "../data/cutin/25_mizuki_to_vs_meiko_1.mp3",
+      "note": ""
+    }
+  ]
+}

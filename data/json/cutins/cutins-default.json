@@ -1,0 +1,1497 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_miku",
+        "interaction": "私も頑張るね"
+      },
+      "file": "../data/cutin/default_to_vs_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_miku",
+        "interaction": "想い、ちゃんと伝わってるよ"
+      },
+      "file": "../data/cutin/default_to_vs_miku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_miku",
+        "interaction": "すごくいい感じだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_miku",
+        "interaction": "うふふ、みんな楽しそう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "わたしも頑張っちゃうよ"
+      },
+      "file": "../data/cutin/default_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、もっといけそうだね"
+      },
+      "file": "../data/cutin/default_to_vs_rin_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "いいね、ノッてきたよ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_rin_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "いいじゃん、いいじゃん"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_rin_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、このままキープだね"
+      },
+      "file": "../data/cutin/default_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "オレももっと盛り上げないとな"
+      },
+      "file": "../data/cutin/default_to_vs_len_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "まだまだいけそうだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_len_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "いいじゃん、オレもノッてきた"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_len_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "私もサポートするわ"
+      },
+      "file": "../data/cutin/default_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、この調子でいきましょ"
+      },
+      "file": "../data/cutin/default_to_vs_luka_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "みんな、すごくいい感じね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_luka_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "想いと歌が重なっていくわ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_luka_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、私も盛り上げるわ"
+      },
+      "file": "../data/cutin/default_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "私も頑張っちゃおうかしら"
+      },
+      "file": "../data/cutin/default_to_vs_meiko_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "順調、順調"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_meiko_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "まだまだいけそうね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_meiko_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、この調子で盛り上げよう"
+      },
+      "file": "../data/cutin/default_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "いいね、僕も頑張らないと"
+      },
+      "file": "../data/cutin/default_to_vs_kaito_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "気を抜かずにいこう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_kaito_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "すごい、いい調子だね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vs_kaito_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "いいね、もっと盛り上げていこう"
+      },
+      "file": "../data/cutin/default_to_ln_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "うん、その調子"
+      },
+      "file": "../data/cutin/default_to_ln_miku_2.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "こんなにいい演奏になるなんて"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "まだまだいけそうだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "いいね、その調子"
+      },
+      "file": "../data/cutin/default_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "私も続かないと"
+      },
+      "file": "../data/cutin/default_to_ln_ichica_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "ここで失敗なんてできないね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_ichica_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "私達の歌、もっと響け"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_ichica_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "アタシも頑張っちゃうよ"
+      },
+      "file": "../data/cutin/default_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "よーし、ノッてきた"
+      },
+      "file": "../data/cutin/default_to_ln_saki_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "この調子ならいける"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_saki_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "一気に盛り上げていこう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_saki_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "みんなの音、わたしが支えなきゃ"
+      },
+      "file": "../data/cutin/default_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "この調子で行こうね"
+      },
+      "file": "../data/cutin/default_to_ln_honami_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "どんどんいくよ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_honami_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "わぁ、うまくいってるね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_honami_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "絶好調だね"
+      },
+      "file": "../data/cutin/default_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "私も、自分らしい演奏を"
+      },
+      "file": "../data/cutin/default_to_ln_shiho_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "まだまだやれるよ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_shiho_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "いい感じ、このまま"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ln_shiho_to_default_2.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "やっぱり、歌うって楽しいね"
+      },
+      "file": "../data/cutin/default_to_mmj_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "うん、まだまだ盛り上げるよ"
+      },
+      "file": "../data/cutin/default_to_mmj_miku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "みんな、盛り上がってるね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "最高のステージにするために"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "このままリズムにノッていこう"
+      },
+      "file": "../data/cutin/default_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "わたしもみんなを笑顔に"
+      },
+      "file": "../data/cutin/default_to_mmj_minori_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "ステージの端まで届けー"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_minori_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "すっごくいい調子"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_minori_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "私達の歌が届いてる"
+      },
+      "file": "../data/cutin/default_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "最後まで油断はダメだよ"
+      },
+      "file": "../data/cutin/default_to_mmj_haruka_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "いい調子だね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_haruka_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "このままリズムをキープして"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_haruka_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "アイドルの力、見せてやるわ"
+      },
+      "file": "../data/cutin/default_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "わたしの歌も聞いてね"
+      },
+      "file": "../data/cutin/default_to_mmj_airi_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "みんなと一つになってる"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_airi_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "最高のステージになる予感"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_airi_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "この調子でいきましょ"
+      },
+      "file": "../data/cutin/default_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、すごく楽しい"
+      },
+      "file": "../data/cutin/default_to_mmj_shizuku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "うまくやれているわ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_shizuku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "とっても順調ね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/mmj_shizuku_to_default_2.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_miku",
+        "interaction": "私もまだまだいけるよ"
+      },
+      "file": "../data/cutin/default_to_vbs_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_miku",
+        "interaction": "いいね、私もノッてきた"
+      },
+      "file": "../data/cutin/default_to_vbs_miku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_miku",
+        "interaction": "いい調子だね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_miku",
+        "interaction": "さぁ、どんどんいくよ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、私ももっと頑張る"
+      },
+      "file": "../data/cutin/default_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "大丈夫、私達ならできるよ"
+      },
+      "file": "../data/cutin/default_to_vbs_kohane_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "みんなをドキドキさせる歌を"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_kohane_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "やるって決めたもん、諦めない"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_kohane_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "いいねぇ、私もノッてきた"
+      },
+      "file": "../data/cutin/default_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "私もまだまだいけるよ"
+      },
+      "file": "../data/cutin/default_to_vbs_an_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "場もあったまってきたね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_an_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "さぁ、どんどんアゲてくよ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_an_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "このまま盛り上げていくぞ"
+      },
+      "file": "../data/cutin/default_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "最後まで気を抜くなよ"
+      },
+      "file": "../data/cutin/default_to_vbs_akito_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "ノッてきてるな"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_akito_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "アレンジいってみるか"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_akito_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "焦りは禁物だぞ"
+      },
+      "file": "../data/cutin/default_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "あぁ、この調子で、ラストまで"
+      },
+      "file": "../data/cutin/default_to_vbs_toya_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "ノッてきているな"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_toya_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "確実にいこう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/vbs_toya_to_default_2.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "うん、もっと盛り上げよう"
+      },
+      "file": "../data/cutin/default_to_ws_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "ミクも、みんなを笑顔にしたい"
+      },
+      "file": "../data/cutin/default_to_ws_miku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "まだまだショーはここから"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "すっごくいい感じだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "あぁ、調子が上がってきたな"
+      },
+      "file": "../data/cutin/default_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "よし、最後まで畳み掛ける"
+      },
+      "file": "../data/cutin/default_to_ws_tsukasa_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ここからがクライマックスだぞ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_tsukasa_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "オレの真の実力を見せてやろう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_tsukasa_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "よーし、もっと盛り上げちゃおう"
+      },
+      "file": "../data/cutin/default_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、楽しい"
+      },
+      "file": "../data/cutin/default_to_ws_emu_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "みんなノリノリだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_emu_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "わっはっはー、絶好調"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_emu_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "まぁ、いいんじゃない"
+      },
+      "file": "../data/cutin/default_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "わたしも、みんなと一緒に"
+      },
+      "file": "../data/cutin/default_to_ws_nene_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "もっといけるでしょ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_nene_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "この調子で、最後まで"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_nene_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "いいね、僕もノッてきたよ"
+      },
+      "file": "../data/cutin/default_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "僕がここまで魅せられるなんてね"
+      },
+      "file": "../data/cutin/default_to_ws_rui_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "さぁ、クライマックスだ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_rui_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "ふふっ、アドリブにも良い対応だ"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/ws_rui_to_default_2.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "うん、まだ、やれる"
+      },
+      "file": "../data/cutin/default_to_25_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_miku",
+        "interaction": "私も頑張る"
+      },
+      "file": "../data/cutin/default_to_25_miku_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "すごく、いい"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_miku_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_miku",
+        "interaction": "音も歌も、気持ちよく響いてる"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_miku_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、いいと思う"
+      },
+      "file": "../data/cutin/default_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、このまま歌いきろう"
+      },
+      "file": "../data/cutin/default_to_25_kanade_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "このままいこう"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_kanade_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "曲を掴めてきてるね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_kanade_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "頑張ればいいの？"
+      },
+      "file": "../data/cutin/default_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "いいんじゃない"
+      },
+      "file": "../data/cutin/default_to_25_mafuyu_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "みんな楽しそうだね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_mafuyu_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "このまま続けていけば"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_mafuyu_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "うん、いいんじゃない？"
+      },
+      "file": "../data/cutin/default_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "この調子で行こうね"
+      },
+      "file": "../data/cutin/default_to_25_ena_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "やった、上手にできてる"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_ena_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "調子いいじゃん"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_ena_to_default_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "ボクも本気、見せちゃおっかな"
+      },
+      "file": "../data/cutin/default_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "仕方ない、ボクも頑張るか"
+      },
+      "file": "../data/cutin/default_to_25_mizuki_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "みんな、ノッてるかーい？"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_mizuki_to_default_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "いい感じで盛り上がってるね"
+      },
+      "to": {
+        "member_id": "",
+        "interaction": ""
+      },
+      "file": "../data/cutin/25_mizuki_to_default_2.mp3",
+      "note": ""
+    }
+  ]
+}

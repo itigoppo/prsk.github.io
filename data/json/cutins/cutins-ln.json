@@ -1,0 +1,260 @@
+{
+  "cutins": [
+
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "みんな、いい調子だね"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "ふふ、最後までこの調子でいきたいわね"
+      },
+      "file": "../data/cutin/ln_miku_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "一歌、しっかりついてきて"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、任せて"
+      },
+      "file": "../data/cutin/ln_miku_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "すごい、いい感じ"
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "みんなの実力だよ"
+      },
+      "file": "../data/cutin/ln_ichica_to_ln_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "咲希、楽しんでる？"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "うん、すっごく楽しい"
+      },
+      "file": "../data/cutin/ln_miku_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "もっと盛り上げていこう"
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "ふふ、咲希が一番楽しそう"
+      },
+      "file": "../data/cutin/ln_saki_to_ln_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "流石、リズムバッチリ"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "ありがと、ミクちゃん"
+      },
+      "file": "../data/cutin/ln_miku_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "この勢いでいきます"
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "穂波、格好いいよ"
+      },
+      "file": "../data/cutin/ln_honami_to_ln_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_miku",
+        "interaction": "まだまだいけるでしょ？"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "もちろん、アゲていくよ"
+      },
+      "file": "../data/cutin/ln_miku_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "音が一つになってる"
+      },
+      "to": {
+        "member_id": "ln_miku",
+        "interaction": "うん、ライブの空気って最高"
+      },
+      "file": "../data/cutin/ln_shiho_to_ln_miku_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "咲希ここからだよ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "もちろん、アゲてこー"
+      },
+      "file": "../data/cutin/ln_ichica_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "みんな楽しそう、青春っぽい"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "もう、咲希ってばはしゃぎすぎ"
+      },
+      "file": "../data/cutin/ln_saki_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "私ももっと盛り上げないと"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "一歌ちゃんならできるよ"
+      },
+      "file": "../data/cutin/ln_ichica_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "もっといい音が叩けそう"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "私も、今なら何でも弾けそう"
+      },
+      "file": "../data/cutin/ln_honami_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "みんなノッてるね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "そういう一歌こそ"
+      },
+      "file": "../data/cutin/ln_ichica_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "空気が一つになってる"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "すごい、これがライブなんだね"
+      },
+      "file": "../data/cutin/ln_shiho_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "アタシの想いこの音に乗せて"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "うん、みんなに届くように"
+      },
+      "file": "../data/cutin/ln_saki_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "わたしがみんなを引っ張る"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "お、ほなちゃん格好いい"
+      },
+      "file": "../data/cutin/ln_honami_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "笑顔だよ、志歩ちゃん"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "演奏には関係ない"
+      },
+      "file": "../data/cutin/ln_saki_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "いい音、出てるね"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "えへへ、この調子でどんどんいくよ"
+      },
+      "file": "../data/cutin/ln_shiho_to_ln_saki_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "この調子で盛り上げていこう"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "オーケー。いくよ、穂波"
+      },
+      "file": "../data/cutin/ln_honami_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "いい音、出てるじゃん"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "ほ、ほんと？ありがとう"
+      },
+      "file": "../data/cutin/ln_shiho_to_ln_honami_1.mp3",
+      "note": ""
+    }
+  ]
+}

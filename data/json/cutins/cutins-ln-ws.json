@@ -1,0 +1,295 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "ここ、合わせましょう"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "分かっているじゃないか、一歌"
+      },
+      "file": "../data/cutin/ln_ichica_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "響け、天翔ける歌声よ"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "よくわからないけど、すごそう"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "みんな喜んでくれてる"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、笑顔でいっぱいだね"
+      },
+      "file": "../data/cutin/ln_ichica_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "レッツ、わんだほーい"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "わ、わんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "うまく歌えてるかな？"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "うん、わたしは好きだな"
+      },
+      "file": "../data/cutin/ln_ichica_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "ほ、星乃さん一緒に"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、一緒に歌おう"
+      },
+      "file": "../data/cutin/ws_nene_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "この勢いで頑張るね"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ふっ、流石は我が妹"
+      },
+      "file": "../data/cutin/ln_saki_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "まだまだ盛り上げるぞ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "いけいけ、お兄ちゃん"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "みんなわんだほいしてる？"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "もちろんだほーい"
+      },
+      "file": "../data/cutin/ln_saki_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "咲希ちゃん、あれいっちゃおう"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "わんわんー、わんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "いけいけ、寧々ちゃん"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "えむとノリがおんなじなんだけど"
+      },
+      "file": "../data/cutin/ln_saki_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "よ、よろしく"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "こっちこそよろしく、寧々ちゃん"
+      },
+      "file": "../data/cutin/ws_nene_to_ln_saki_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "わたしも精一杯歌います"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "存分に聞かせてやれ、穂波"
+      },
+      "file": "../data/cutin/ln_honami_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "穂波、遠慮はするなよ"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "はい、全力で演奏します"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "えむちゃん楽しそうだね"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "えへへ、穂波ちゃんも"
+      },
+      "file": "../data/cutin/ln_honami_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "穂波ちゃん、わんだほーい"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "わ、わんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "素敵な歌声ですね"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "え、あ、ありがとう"
+      },
+      "file": "../data/cutin/ln_honami_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "望月さんのドラム、歌いやすい"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "この調子でサポートしますね"
+      },
+      "file": "../data/cutin/ws_nene_to_ln_honami_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "なんかやりづらいな"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "うん？なにか言ったか？"
+      },
+      "file": "../data/cutin/ln_shiho_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "刮目せよ、魂の演奏に"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "そ、そういうのはいいので"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "いい調子じゃん"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "志歩ちゃんもキラキラ笑顔だね"
+      },
+      "file": "../data/cutin/ln_shiho_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "志歩ちゃんわんだほいやって"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "わ、わん、無理"
+      },
+      "file": "../data/cutin/ws_emu_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "歌、しっかり響いてるね"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "これだけは負けたくないから"
+      },
+      "file": "../data/cutin/ln_shiho_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "日野森さん、いい音出てるね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "生半可な練習、してないからね"
+      },
+      "file": "../data/cutin/ws_nene_to_ln_shiho_1.mp3",
+      "note": ""
+    }
+  ]
+}

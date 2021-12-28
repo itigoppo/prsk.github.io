@@ -1,0 +1,223 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "このままラストまでいこう"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん。よーし、頑張るぞ"
+      },
+      "file": "../data/cutin/ln_ichica_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "もっともっといけそう"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、歌と演奏で盛り上げよう"
+      },
+      "file": "../data/cutin/mmj_minori_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "一歌ちゃん、いっくよー"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、この歌を届けよう"
+      },
+      "file": "../data/cutin/mmj_minori_to_ln_ichica_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "桐谷さんと歌えるなんて"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "私も星乃さんと歌えて嬉しいな"
+      },
+      "file": "../data/cutin/ln_ichica_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "私達の歌で、みんなに希望を"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、私も頑張るよ"
+      },
+      "file": "../data/cutin/mmj_haruka_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "アタシもみんなに希望を"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん、いっぱい届けようね"
+      },
+      "file": "../data/cutin/ln_saki_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "生演奏で歌うの楽しい"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "アタシも生歌聞けて楽しいな"
+      },
+      "file": "../data/cutin/mmj_minori_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "ライブってすごいね"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "そうね、みんなの想いが一つになる場所だから"
+      },
+      "file": "../data/cutin/ln_saki_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "遥ちゃん、さっすがー"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "どういたしまして"
+      },
+      "file": "../data/cutin/ln_saki_to_mmj_haruka_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "天馬さん、いくよ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "うん、どんどん盛り上げよう"
+      },
+      "file": "../data/cutin/mmj_haruka_to_ln_saki_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "音が胸に響いてきます"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "あなたの音もしっかりと響いているわ"
+      },
+      "file": "../data/cutin/ln_honami_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "このまま油断せずに、最後まで"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "はい。一音一音、大切に"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_ln_honami_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "みのり、ついてきてる？"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん、もーっと頑張るよ"
+      },
+      "file": "../data/cutin/ln_shiho_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "志歩ちゃんの演奏、格好いい"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "いいから、歌に集中"
+      },
+      "file": "../data/cutin/mmj_minori_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "まさかセッションできるなんて"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "演奏と歌、しっかり合わせよう"
+      },
+      "file": "../data/cutin/ln_shiho_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "この想いをみんなのところに"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "うん、みんなの心に響くように"
+      },
+      "file": "../data/cutin/mmj_haruka_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "その調子、が、頑張って"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "しぃちゃん"
+      },
+      "file": "../data/cutin/ln_shiho_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "しぃちゃんと一緒で嬉しいわ"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "わかったから、よそ見しない"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_ln_shiho_1.mp3",
+      "note": ""
+    }
+  ]
+}

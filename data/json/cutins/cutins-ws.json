@@ -1,0 +1,259 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "この調子で、ドンドン盛り上げちゃおう"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "そうだね、みんなならきっと出来るよ"
+      },
+      "file": "../data/cutin/ws_miku_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "それじゃ、いっくよー"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "いくってなんだ、そんな段取りあったか？"
+      },
+      "file": "../data/cutin/ws_miku_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ショーの時間だぞ"
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "うん、みんなを笑顔に"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ws_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "えむちゃん、絶好調"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "うん、まだまだいけるよ"
+      },
+      "file": "../data/cutin/ws_miku_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "フルパワーわんだほい"
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "ミクも、わんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_ws_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "寧々ちゃん、レッツゴー"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "こ、心の準備が"
+      },
+      "file": "../data/cutin/ws_miku_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "自分の足でステージに"
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "寧々ちゃん、ファイトー"
+      },
+      "file": "../data/cutin/ws_nene_to_ws_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_miku",
+        "interaction": "類くん、アレよろしく"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "では、とっておきのをスイッチオン"
+      },
+      "file": "../data/cutin/ws_miku_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "仕込みは上々だよ"
+      },
+      "to": {
+        "member_id": "ws_miku",
+        "interaction": "よーし、あとは任せて"
+      },
+      "file": "../data/cutin/ws_rui_to_ws_miku_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "みろ、みんなの笑顔を"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "あたしも思わずわんだほーい"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "音がキラキラしてるよ"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "あぁ、この調子でいくぞ"
+      },
+      "file": "../data/cutin/ws_emu_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "ふっ、オレを呼ぶ歓声が聞こえる"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "耳、大丈夫？"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "しっかり合わせてよ"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "誰に言っている、任せろ"
+      },
+      "file": "../data/cutin/ws_nene_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "かなり調子いいぞ"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "本当に君は本番に強いね"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "素晴らしいショーになる予感がするよ"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "あぁ、オレもそう思っていた"
+      },
+      "file": "../data/cutin/ws_rui_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "見せ場がきたね"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "ちゃんと決めてみせる"
+      },
+      "file": "../data/cutin/ws_emu_to_ws_nene_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "このまま、最後まで"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "頑張れ、頑張れ、寧々ちゃーん"
+      },
+      "file": "../data/cutin/ws_nene_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "いけいけゴーゴー、わんだほーい"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "そうだね、この勢いは大事にしなくては"
+      },
+      "file": "../data/cutin/ws_emu_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "ここからは任せたよ、えむくん"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "はーい。いくよー、フルパワーわんだほーい"
+      },
+      "file": "../data/cutin/ws_rui_to_ws_emu_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ws_nene",
+        "interaction": "楽しそうだね"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "ふふ、これだけ盛り上がっていて、楽しくないはずがないよ"
+      },
+      "file": "../data/cutin/ws_nene_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "ここからが僕達の真骨頂だ"
+      },
+      "to": {
+        "member_id": "ws_nene",
+        "interaction": "うん、いくよ、寧々ロボ"
+      },
+      "file": "../data/cutin/ws_rui_to_ws_nene_1.mp3",
+      "note": ""
+    }
+  ]
+}

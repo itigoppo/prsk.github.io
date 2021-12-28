@@ -1,0 +1,102 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "もっともっとみんなに届け"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "みのりちゃん、ファイトー"
+      },
+      "file": "../data/cutin/mmj_minori_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "L、O、V、E、みのっりー"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "私がそれを言われるなんて"
+      },
+      "file": "../data/cutin/25_mizuki_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "ステージって最高でしょ？"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "うん。アイドルの気持ちが、少しわかったかも"
+      },
+      "file": "../data/cutin/mmj_airi_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "ここまで順調"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "えぇ、最高のパフォーマンスだわ"
+      },
+      "file": "../data/cutin/25_ena_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "一緒に歌えるなんて嬉しいわ"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "私もだよ。頑張ろうね、日野森さん"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "プロの前で歌うなんて恥ずかしい"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "朝比奈さんならきっと大丈夫よ"
+      },
+      "file": "../data/cutin/25_mafuyu_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "希望を届けるために"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "雫、格好いいじゃん"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "私、ちゃんとやれてる？"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、素敵よ絵名ちゃん"
+      },
+      "file": "../data/cutin/25_ena_to_mmj_shizuku_1.mp3",
+      "note": ""
+    }
+  ]
+}

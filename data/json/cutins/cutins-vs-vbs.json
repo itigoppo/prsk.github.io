@@ -1,0 +1,391 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "一緒に歌うって楽しいね"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、私もすごく楽しい"
+      },
+      "file": "../data/cutin/vs_rin_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "みんなの隣で私も"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "その気持ちがあれば大丈夫"
+      },
+      "file": "../data/cutin/vbs_kohane_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんな、いくよ"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "オッケー、リンちゃん"
+      },
+      "file": "../data/cutin/vs_rin_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "リンちゃん調子はどう？"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "もちろん、絶好調"
+      },
+      "file": "../data/cutin/vbs_an_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "歌が気持ちよく響いてる"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "あぁ、いい調子だな"
+      },
+      "file": "../data/cutin/vs_rin_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "リン、まだいけるか？"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、任せて"
+      },
+      "file": "../data/cutin/vbs_akito_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "みんな楽しそうだね"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "あぁ、俺も楽しい"
+      },
+      "file": "../data/cutin/vs_rin_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "一緒に歌えるなんてな"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "えへへ、わたしも楽しみ"
+      },
+      "file": "../data/cutin/vbs_toya_to_vs_rin_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "この感じ、ワクワクする"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、私も"
+      },
+      "file": "../data/cutin/vs_len_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "楽しんでもらえてるかな"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "大丈夫、自分達を信じて"
+      },
+      "file": "../data/cutin/vbs_kohane_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "みんな、盛り上がっていこう"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "レンくん張り切ってるね"
+      },
+      "file": "../data/cutin/vs_len_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "ここは私がリードするね"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "流石、頼りにしてるよ"
+      },
+      "file": "../data/cutin/vbs_an_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "ちゃんとついてきてる？"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "誰に言ってんだ？当然だろ"
+      },
+      "file": "../data/cutin/vs_len_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "調子あがってきたな"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "まあね、そろそろ本気でいくよ"
+      },
+      "file": "../data/cutin/vbs_akito_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "最高のステージにしようね"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "あぁ、みんなでつくろう。必ず"
+      },
+      "file": "../data/cutin/vs_len_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "俺も負けていられないな"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、遠慮なくやっちゃって"
+      },
+      "file": "../data/cutin/vbs_toya_to_vs_len_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "私も行こうかしら"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "メイコさんの歌、楽しみです"
+      },
+      "file": "../data/cutin/vs_meiko_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "メイコさん、一緒に"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、思いっきり歌いましょう"
+      },
+      "file": "../data/cutin/vbs_kohane_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "だいぶ温まってきたわね"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "このままもっと沸かせちゃおうよ"
+      },
+      "file": "../data/cutin/vs_meiko_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "最高に楽しいですね"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、いい音が溢れてるわ"
+      },
+      "file": "../data/cutin/vbs_an_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "思う存分やっちゃって"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "あぁ、加減はなしだ"
+      },
+      "file": "../data/cutin/vs_meiko_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "よし、このまま"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、勢い大事よね"
+      },
+      "file": "../data/cutin/vbs_akito_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "いい調子で来てるわね"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "みんなのおかげですね"
+      },
+      "file": "../data/cutin/vs_meiko_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "ここで歌うって決めたんだ"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "その想い、届けましょう"
+      },
+      "file": "../data/cutin/vbs_toya_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、いい調子だね"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "カイトさんのおかげです"
+      },
+      "file": "../data/cutin/vs_kaito_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "みんなに追いつけるように"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "大丈夫。焦らない、焦らない"
+      },
+      "file": "../data/cutin/vbs_kohane_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "まだまだ余裕そうだね"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "ここからが本番ですもんね"
+      },
+      "file": "../data/cutin/vs_kaito_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "私達の歌であの夜を"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "あぁ、みんなの力を見せてくれ"
+      },
+      "file": "../data/cutin/vbs_an_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "僕達の出番だね"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "あぁ、気を引き締めていかねーと"
+      },
+      "file": "../data/cutin/vs_kaito_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "オレ達の力を見せねーとな"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、存分にやろう"
+      },
+      "file": "../data/cutin/vbs_akito_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "調子が上がってきたね"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "はい、まだまだここからです"
+      },
+      "file": "../data/cutin/vs_kaito_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "俺達の歌で、もっと"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、その意気だ"
+      },
+      "file": "../data/cutin/vbs_toya_to_vs_kaito_1.mp3",
+      "note": ""
+    }
+  ]
+}

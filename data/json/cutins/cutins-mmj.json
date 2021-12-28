@@ -1,0 +1,259 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "盛り上がってきてるね"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん。でも、まだまだこれからだよ"
+      },
+      "file": "../data/cutin/mmj_miku_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "うふふ、良いステージになりそうだね"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん。よーし、ラストスパート"
+      },
+      "file": "../data/cutin/mmj_miku_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "練習通りにやれば大丈夫"
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "うん、みのりちゃんならできるよ"
+      },
+      "file": "../data/cutin/mmj_minori_to_mmj_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "ペンライトきれいだね"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "うん、みんなの想いに応えなくちゃ"
+      },
+      "file": "../data/cutin/mmj_miku_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "流石だねミク"
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "ふふ、遥ちゃんもいい調子"
+      },
+      "file": "../data/cutin/mmj_haruka_to_mmj_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "愛莉ちゃん、いくよ"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "えぇ、ここからが見せ場よね"
+      },
+      "file": "../data/cutin/mmj_miku_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "ライブはこうじゃなくちゃ"
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "うん、すごく楽しいね"
+      },
+      "file": "../data/cutin/mmj_airi_to_mmj_miku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_miku",
+        "interaction": "雫ちゃん、いい感じだね"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "練習の成果が出せてよかったわ"
+      },
+      "file": "../data/cutin/mmj_miku_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "私達の歌をみんなに"
+      },
+      "to": {
+        "member_id": "mmj_miku",
+        "interaction": "うん。絶対、届けようね"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_mmj_miku_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "L、O、V、E、遥"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "み、みのりの応援がすごい"
+      },
+      "file": "../data/cutin/mmj_minori_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "私達の想いを、みんなに"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "大丈夫、きっと伝わるよ"
+      },
+      "file": "../data/cutin/mmj_haruka_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "愛莉ちゃん、絶好調だね"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "当たり前よ、ステージの上だもの"
+      },
+      "file": "../data/cutin/mmj_minori_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "へばってないでしょうね？"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "うん、まだまだ大丈夫"
+      },
+      "file": "../data/cutin/mmj_airi_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "雫ちゃんみたいにキラキラ踊れてるかな？"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "とっても可愛いわよ、みのりちゃん"
+      },
+      "file": "../data/cutin/mmj_minori_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "大丈夫、みんなとならできる"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "そうだよ、私達は一人じゃない"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "最後まで油断せずにね"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "その言葉、そっくりそのまま返してあげる"
+      },
+      "file": "../data/cutin/mmj_haruka_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "遥、ついてきてる？"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "当然よ。愛莉こそ遅れないでね？"
+      },
+      "file": "../data/cutin/mmj_airi_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "私達の想いをどこまでも"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、届けましょう、みんなに"
+      },
+      "file": "../data/cutin/mmj_haruka_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "遥ちゃん、合わせるわ"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "流石ね、タイミング完璧"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "このステージ最高ね"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "ふふっ、私も同じこと考えてた"
+      },
+      "file": "../data/cutin/mmj_airi_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "みんなの気持ちが一つになってる気がする"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "気がするじゃなくて、そうなのよ。さ、まだまだいくわよ"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_mmj_airi_1.mp3",
+      "note": ""
+    }
+  ]
+}

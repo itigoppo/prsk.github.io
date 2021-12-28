@@ -1,0 +1,102 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "瑞希と歌えるなんてね"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "あはは、ボクもびっくりだよ"
+      },
+      "file": "../data/cutin/vbs_an_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "歌で想いが届くなら"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "大丈夫、ちゃんと届くって"
+      },
+      "file": "../data/cutin/25_mizuki_to_vbs_an_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "やれば出来るじゃねーか"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "ふん。あんたにそう言われてもね"
+      },
+      "file": "../data/cutin/vbs_akito_to_25_ena_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "足、引っ張らないでよ"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "こっちのセリフだっつーの"
+      },
+      "file": "../data/cutin/25_ena_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "おい、ついてきてるか？"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "いまのところね"
+      },
+      "file": "../data/cutin/vbs_akito_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "弟くん、さぁいくよ"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "だからそれやめろっての"
+      },
+      "file": "../data/cutin/25_mizuki_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "一緒に歌えるとはな"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "ボクもワクワクしてるよ"
+      },
+      "file": "../data/cutin/vbs_toya_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "冬弥くん、調子いいね"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "暁山こそ、いい感じだ"
+      },
+      "file": "../data/cutin/25_mizuki_to_vbs_toya_1.mp3",
+      "note": ""
+    }
+  ]
+}

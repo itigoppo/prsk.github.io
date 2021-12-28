@@ -1,0 +1,102 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ws_tsukasa",
+        "interaction": "みんなの笑顔のために"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "ひゅー、先輩格好いい"
+      },
+      "file": "../data/cutin/ws_tsukasa_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "ハッピーエンドが一番"
+      },
+      "to": {
+        "member_id": "ws_tsukasa",
+        "interaction": "あぁ、最後は笑顔だ"
+      },
+      "file": "../data/cutin/25_mizuki_to_ws_tsukasa_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "先輩も一緒にわんだほーい"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "え？わ、わんだほい"
+      },
+      "file": "../data/cutin/ws_emu_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "楽しいね、鳳さん"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "は、はひぃ"
+      },
+      "file": "../data/cutin/25_mafuyu_to_ws_emu_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "さて、いこうか瑞希"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "オッケー。イッツ、ショータイム"
+      },
+      "file": "../data/cutin/ws_rui_to_25_mizuki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "そろそろボクの出番かな？"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "僕のことも忘れてもらっては困るよ"
+      },
+      "file": "../data/cutin/25_mizuki_to_ws_rui_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_rui",
+        "interaction": "おや？随分協力的だね？"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "昔馴染みのためだからかな？"
+      },
+      "file": "../data/cutin/ws_rui_to_25_mizuki_2.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "類も可愛いポーズしてみる？"
+      },
+      "to": {
+        "member_id": "ws_rui",
+        "interaction": "いやいや、君の株を奪うような真似は出来ないよ"
+      },
+      "file": "../data/cutin/25_mizuki_to_ws_rui_2.mp3",
+      "note": ""
+    }
+  ]
+}

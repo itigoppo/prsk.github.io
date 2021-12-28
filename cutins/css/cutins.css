@@ -1,0 +1,128 @@
+
+#search label, #search button {
+  margin: 0;
+  display: block;
+  position: relative;
+  padding: 5px 10px 5px 30px;
+  border: 3px solid #fff;
+  border-radius: 100px;
+  color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color .2s, box-shadow .2s;
+}
+#search button {
+  padding: 5px 10px 5px 10px !important;
+}
+
+#search .form-check-input:checked {
+  background-color: #000;
+  border-color: #000;
+}
+
+#search div.form-check {
+  padding-left: 10px !important;
+}
+
+#search div.form-check-inline {
+  margin-right: 0 !important;
+}
+
+.balloon {
+  position: relative;
+  overflow: hidden;
+}
+
+.balloon .balloon-icon {
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  width: 60px;
+}
+
+.balloon .balloon-icon img {
+  width: 60px;
+}
+
+.balloon .balloon-member {
+  position: absolute;
+  width: 60px;
+  text-align: center;
+  top: 63px;
+  font-size: 10px;
+}
+
+.balloon.left .balloon-icon, .balloon.left .balloon-member {
+  left: 0;
+}
+
+.balloon.right .balloon-icon, .balloon.right .balloon-member {
+  right: 0;
+}
+
+.balloon .balloon-side {
+  position: relative;
+  float: left;
+  margin: 0 65px 53px 65px;
+}
+
+.balloon.right .balloon-side {
+  float: right;
+}
+
+.balloon .balloon-text {
+  position: relative;
+  border: 2px solid #eee;
+  border-radius: 6px;
+  background-color: #fff;
+  color: #333;
+  line-height: 1.2;
+  padding: 7px;
+}
+
+.balloon .balloon-text > p:last-of-type {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.balloon .balloon-text:before {
+  content: "";
+  position: absolute;
+  border-style: solid;
+  top: 16px;
+  z-index: 3;
+}
+
+.balloon .balloon-text:after {
+  content: "";
+  position: absolute;
+  border-style: solid;
+  top: 15px;
+  z-index: 2;
+}
+
+.balloon.left .balloon-text:before {
+  left: -7px;
+  border-width: 7px 10px 7px 0;
+  border-color: transparent #fff transparent transparent;
+}
+
+.balloon.left .balloon-text:after {
+  left: -10px;
+  border-width: 8px 10px 8px 0;
+  border-color: transparent #eee transparent transparent;
+}
+
+.balloon.right .balloon-text:before {
+  right: -7px;
+  border-width: 7px 0 7px 10px;
+  border-color: transparent transparent transparent #fff;
+}
+
+.balloon.right .balloon-text:after {
+  right: -10px;
+  border-width: 8px 0 8px 10px;
+  border-color: transparent transparent transparent #eee;
+}

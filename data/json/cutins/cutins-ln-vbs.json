@@ -1,0 +1,102 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "こはねの歌、やっぱりすごいな"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "一歌ちゃんの歌も素敵だよ"
+      },
+      "file": "../data/cutin/ln_ichica_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "一歌ちゃん、一緒に歌おう"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、みんなに届くように"
+      },
+      "file": "../data/cutin/vbs_kohane_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "音で想いを伝えられるように"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "大丈夫、すごく伝わってるよ"
+      },
+      "file": "../data/cutin/ln_saki_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "自信を持って歌わなきゃ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "うん、アタシも頑張る"
+      },
+      "file": "../data/cutin/vbs_kohane_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "とーやくん、準備オッケー？"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "はい、いつでもいけます"
+      },
+      "file": "../data/cutin/ln_saki_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "焦らずいきましょう"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "えへへ、とーやくんらしいね"
+      },
+      "file": "../data/cutin/vbs_toya_to_ln_saki_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "ここからだね、こはねちゃん"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "うん、頑張って盛り上げるね"
+      },
+      "file": "../data/cutin/ln_honami_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "穂波ちゃん、いい感じだね"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "ありがとう、この調子でいくね"
+      },
+      "file": "../data/cutin/vbs_kohane_to_ln_honami_1.mp3",
+      "note": ""
+    }
+  ]
+}

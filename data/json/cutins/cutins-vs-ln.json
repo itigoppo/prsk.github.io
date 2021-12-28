@@ -1,0 +1,488 @@
+{
+  "cutins": [
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "一歌ちゃん、準備オッケー？"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、いつでもいけるよ"
+      },
+      "file": "../data/cutin/vs_rin_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "この歌をみんなに"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "うん、思いっきり歌おう"
+      },
+      "file": "../data/cutin/ln_ichica_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "咲希ちゃんいい感じ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "えへへ、この調子をキープだね"
+      },
+      "file": "../data/cutin/vs_rin_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "ライブってやっぱり最高"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "えへへ、わたしも大好きなんだ"
+      },
+      "file": "../data/cutin/ln_saki_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "わぁ、みんなノリノリだよ"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "うん、この一体感が大事だね"
+      },
+      "file": "../data/cutin/vs_rin_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "みんなの音を支えられるように"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "頑張れ、穂波ちゃん"
+      },
+      "file": "../data/cutin/ln_honami_to_vs_rin_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_rin",
+        "interaction": "盛り上がってきてるね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "まぁね、でもまだまだいくよ"
+      },
+      "file": "../data/cutin/vs_rin_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "心に響く演奏を"
+      },
+      "to": {
+        "member_id": "vs_rin",
+        "interaction": "いいぞ、いいぞ、志歩ちゃん"
+      },
+      "file": "../data/cutin/ln_shiho_to_vs_rin_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "バンドってやっぱ楽しいな"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "音が一つになる感覚、いいよね"
+      },
+      "file": "../data/cutin/vs_len_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "もっと盛り上げられるはず"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、一緒に頑張ろう"
+      },
+      "file": "../data/cutin/ln_ichica_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "今いい感じだったね"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "うん、アタシもノッてきた"
+      },
+      "file": "../data/cutin/vs_len_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "特訓の成果、見せちゃうよ"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "いいね、オレもみたいな"
+      },
+      "file": "../data/cutin/ln_saki_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "おっ、今のとこ格好いい"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "え？あ、ありがとう"
+      },
+      "file": "../data/cutin/vs_len_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "音と心を一つに"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "オレ達ならできるよ"
+      },
+      "file": "../data/cutin/ln_honami_to_vs_len_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_len",
+        "interaction": "オレも演奏していいの？"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "もちろん、歓迎するよ"
+      },
+      "file": "../data/cutin/vs_len_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "レン、楽しんでる？"
+      },
+      "to": {
+        "member_id": "vs_len",
+        "interaction": "うん、すっごく"
+      },
+      "file": "../data/cutin/ln_shiho_to_vs_len_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "とっても素敵な演奏ね"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "みんなの応援があるからかな"
+      },
+      "file": "../data/cutin/vs_luka_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "私達の演奏届いてるかな"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、きっと"
+      },
+      "file": "../data/cutin/ln_ichica_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "さぁ、その調子よ"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "はい、任せてください"
+      },
+      "file": "../data/cutin/vs_luka_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "もっと楽しんじゃおう"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、その意気よ"
+      },
+      "file": "../data/cutin/ln_saki_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "ここが見せ場ね"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "練習の成果、見せます"
+      },
+      "file": "../data/cutin/vs_luka_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "いい調子ですね"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "あら、まだまだここからよ"
+      },
+      "file": "../data/cutin/ln_honami_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "安定した演奏ね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "これくらいできないとね"
+      },
+      "file": "../data/cutin/vs_luka_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "格好悪いとこ見せられない"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "ふふ、十分格好いいわよ"
+      },
+      "file": "../data/cutin/ln_shiho_to_vs_luka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "みんなの歌もっと聞かせて"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、私も聞いてほしい"
+      },
+      "file": "../data/cutin/vs_meiko_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "ここは走りすぎないように"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、その調子よ"
+      },
+      "file": "../data/cutin/ln_ichica_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "まだまだここからね"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "はい。集中、集中"
+      },
+      "file": "../data/cutin/vs_meiko_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "ガンガンいっちゃおう"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "迷いのないいい音ね"
+      },
+      "file": "../data/cutin/ln_saki_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "さっ、あともう少し"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "最後まで油断は禁物ですね"
+      },
+      "file": "../data/cutin/vs_meiko_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "焦らずいきましょう"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、みんなの音を聞かなくちゃね"
+      },
+      "file": "../data/cutin/ln_honami_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_meiko",
+        "interaction": "この一体感最高ね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "うん、私も好き"
+      },
+      "file": "../data/cutin/vs_meiko_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "最高の演奏にしてみせる"
+      },
+      "to": {
+        "member_id": "vs_meiko",
+        "interaction": "えぇ、その意気よ"
+      },
+      "file": "../data/cutin/ln_shiho_to_vs_meiko_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "調子いいみたいだね"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "うん、このまま最後まで"
+      },
+      "file": "../data/cutin/vs_kaito_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "様になってきたかな"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、自身を持っていこう"
+      },
+      "file": "../data/cutin/ln_ichica_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "練習の成果出てるね"
+      },
+      "to": {
+        "member_id": "ln_saki",
+        "interaction": "えへへ、それほどでも"
+      },
+      "file": "../data/cutin/vs_kaito_to_ln_saki_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_saki",
+        "interaction": "いえーい、ノッてこう"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "ははっ、盛り上げ上手だね"
+      },
+      "file": "../data/cutin/ln_saki_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "ここからが大事だね"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "はい、油断は禁物ですね"
+      },
+      "file": "../data/cutin/vs_kaito_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "まだまだいけます"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "いいね、それじゃあ僕も"
+      },
+      "file": "../data/cutin/ln_honami_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "ライブ成功させたいね"
+      },
+      "to": {
+        "member_id": "ln_shiho",
+        "interaction": "はい、絶対に"
+      },
+      "file": "../data/cutin/vs_kaito_to_ln_shiho_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_shiho",
+        "interaction": "かなり順調だね"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、みんな流石だよ"
+      },
+      "file": "../data/cutin/ln_shiho_to_vs_kaito_1.mp3",
+      "note": ""
+    }
+  ]
+}
