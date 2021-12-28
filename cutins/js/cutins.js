@@ -1,6 +1,11 @@
 const members = {};
 
 $(function () {
+  let hash = location.hash;
+  if (hash === "#wdh") {
+    $("#wandahoi").prop("checked", true);
+  }
+
   loadMembers();
   showData();
 
