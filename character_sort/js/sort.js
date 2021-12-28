@@ -48,7 +48,7 @@ $(function () {
 const loadUnitData = () => {
   const units = {};
   $.ajaxSetup({async: false}); // 同期通信(json取ってくるまで待つ)
-  $.getJSON("../data/units.json", function (data) {
+  $.getJSON("../data/json/units.json", function (data) {
     $(data.units).each(function () {
       units[this.id] = {
         id: this.id,
@@ -68,7 +68,7 @@ const loadMembers = () => {
   const units = loadUnitData();
 
   $.ajaxSetup({async: false}); // 同期通信(json取ってくるまで待つ)
-  $.getJSON("../data/members.json", function (data) {
+  $.getJSON("../data/json/members.json", function (data) {
     $(data.members).each(function () {
       if (!this.is_active) {
         return true;

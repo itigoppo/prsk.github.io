@@ -504,5 +504,19 @@
       "color": "#ddaacc",
       "is_active": true
     }
+  ],
+  "vocaloid": [
+    {
+      "id": "vo_gumi",
+      "member": "GUMI"
+    },
+    {
+      "id": "vo_flower",
+      "member": "flower"
+    },
+    {
+      "id": "vo_ia",
+      "member": "IA"
+    }
   ]
 }
