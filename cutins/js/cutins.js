@@ -111,7 +111,7 @@ const loadData = () => {
         const to = getMember(this.to);
 
         if (isFilterFrom && isFilterTo) {
-          if (!showFromMembers[from.id] && !showToMembers[to.id]) {
+          if (!showFromMembers[from.id] || !showToMembers[to.id]) {
             return true;
           }
         } else {
