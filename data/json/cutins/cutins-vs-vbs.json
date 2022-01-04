@@ -196,6 +196,103 @@
 
     {
       "from": {
+        "member_id": "vs_luka",
+        "interaction": "感じるまま、想いを歌に"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "わぁ。ルカさんの歌、すごくきれい"
+      },
+      "file": "../data/cutin/vs_luka_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "自分を信じて、もっと"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "いいわね、とっても輝いているわ"
+      },
+      "file": "../data/cutin/vbs_kohane_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "ノッて来てるわね、杏ちゃん"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "当然、もっと沸かせて見せます"
+      },
+      "file": "../data/cutin/vs_luka_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "ルカさん、いけますか？"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "えぇ、いつでもオーケーよ"
+      },
+      "file": "../data/cutin/vbs_an_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "みんなの歌、もっと聞かせて"
+      },
+      "to": {
+        "member_id": "vbs_akito",
+        "interaction": "もちろん、分かってますよ"
+      },
+      "file": "../data/cutin/vs_luka_to_vbs_akito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_akito",
+        "interaction": "俺達は止まらねぇ"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "素敵ね、私も頑張るわ"
+      },
+      "file": "../data/cutin/vbs_akito_to_vs_luka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_luka",
+        "interaction": "ここから合わせてみましょう"
+      },
+      "to": {
+        "member_id": "vbs_toya",
+        "interaction": "いいですね、やりましょう"
+      },
+      "file": "../data/cutin/vs_luka_to_vbs_toya_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_toya",
+        "interaction": "いい調子ですね、ルカさん"
+      },
+      "to": {
+        "member_id": "vs_luka",
+        "interaction": "ふふ、冬弥くんも楽しそうね"
+      },
+      "file": "../data/cutin/vbs_toya_to_vs_luka_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
         "member_id": "vs_meiko",
         "interaction": "私も行こうかしら"
       },

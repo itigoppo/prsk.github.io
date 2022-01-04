@@ -2,6 +2,55 @@
   "cutins": [
     {
       "from": {
+        "member_id": "ln_ichica",
+        "interaction": "もっと心に響くように"
+      },
+      "to": {
+        "member_id": "25_kanade",
+        "interaction": "うん、とってもいい音"
+      },
+      "file": "../data/cutin/ln_ichica_to_25_kanade_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_kanade",
+        "interaction": "リズム難しいけど、いけそう？"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "はい、やってみます"
+      },
+      "file": "../data/cutin/25_kanade_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_ichica",
+        "interaction": "先輩すごくきれいな声ですね"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "星乃さんも、素敵な歌声だよ"
+      },
+      "file": "../data/cutin/ln_ichica_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "いい調子だね、星乃さん"
+      },
+      "to": {
+        "member_id": "ln_ichica",
+        "interaction": "はい、ありがとうございます"
+      },
+      "file": "../data/cutin/25_mafuyu_to_ln_ichica_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
         "member_id": "ln_honami",
         "interaction": "わたしのドラム、どうですか？"
       },
@@ -22,6 +71,30 @@
         "interaction": "はい、このまま駆け抜けましょう"
       },
       "file": "../data/cutin/25_kanade_to_ln_honami_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ln_honami",
+        "interaction": "歌いにくくないですか？"
+      },
+      "to": {
+        "member_id": "25_mafuyu",
+        "interaction": "ううん、楽しく歌わせてもらってるよ"
+      },
+      "file": "../data/cutin/ln_honami_to_25_mafuyu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "25_mafuyu",
+        "interaction": "ドラム、安定してていいね"
+      },
+      "to": {
+        "member_id": "ln_honami",
+        "interaction": "本当ですか、よかった"
+      },
+      "file": "../data/cutin/25_mafuyu_to_ln_honami_1.mp3",
       "note": ""
     }
   ]

@@ -386,6 +386,103 @@
       },
       "file": "../data/cutin/mmj_shizuku_to_vs_meiko_1.mp3",
       "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "大丈夫、自身を持って"
+      },
+      "to": {
+        "member_id": "mmj_minori",
+        "interaction": "はい。見ててください、カイトさん"
+      },
+      "file": "../data/cutin/vs_kaito_to_mmj_minori_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_minori",
+        "interaction": "この気持ち、みんなに届け"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "いいね、全力でサポートするよ"
+      },
+      "file": "../data/cutin/mmj_minori_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "コールとかやってみようかな"
+      },
+      "to": {
+        "member_id": "mmj_haruka",
+        "interaction": "いいですね、やりましょう"
+      },
+      "file": "../data/cutin/vs_kaito_to_mmj_haruka_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_haruka",
+        "interaction": "ライブ、やっぱり楽しいです"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、僕も同じ気持ちだよ"
+      },
+      "file": "../data/cutin/mmj_haruka_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "すごい、ダンス完璧だね"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "ふふ、練習みっちりしてるから"
+      },
+      "file": "../data/cutin/vs_kaito_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "ファンの笑顔のために"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、もっと盛り上げていこう"
+      },
+      "file": "../data/cutin/mmj_airi_to_vs_kaito_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vs_kaito",
+        "interaction": "雫ちゃん、準備はいいかい？"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、いつでも大丈夫よ"
+      },
+      "file": "../data/cutin/vs_kaito_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "ここからが大事ね"
+      },
+      "to": {
+        "member_id": "vs_kaito",
+        "interaction": "うん、丁寧にいこう"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vs_kaito_1.mp3",
+      "note": ""
     }
   ]
 }
