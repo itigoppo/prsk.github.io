@@ -982,7 +982,7 @@
       },
       "to": {
         "member_id": "vbs_toya",
-        "interaction": "あぁ、この調子で、ラストまで"
+        "interaction": "あぁ。この調子で、ラストまで"
       },
       "file": "../data/cutin/default_to_vbs_toya_2.mp3",
       "note": ""
@@ -1452,7 +1452,7 @@
       },
       "to": {
         "member_id": "25_mizuki",
-        "interaction": "ボクも本気、見せちゃおっかな"
+        "interaction": "ボクも本気、みせちゃおっかな"
       },
       "file": "../data/cutin/default_to_25_mizuki_1.mp3",
       "note": ""

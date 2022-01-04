@@ -160,7 +160,7 @@
     {
       "from": {
         "member_id": "vbs_akito",
-        "interaction": "調子あがってきたな"
+        "interaction": "調子あがってきてるな"
       },
       "to": {
         "member_id": "vs_len",
@@ -225,7 +225,7 @@
       },
       "to": {
         "member_id": "vbs_an",
-        "interaction": "当然、もっと沸かせて見せます"
+        "interaction": "当然、もっと沸かせてみせます"
       },
       "file": "../data/cutin/vs_luka_to_vbs_an_1.mp3",
       "note": ""
@@ -378,7 +378,7 @@
     {
       "from": {
         "member_id": "vbs_toya",
-        "interaction": "ここで歌うって決めたんだ"
+        "interaction": "ここで歌うと決めたんだ"
       },
       "to": {
         "member_id": "vs_meiko",
@@ -439,7 +439,7 @@
     {
       "from": {
         "member_id": "vs_kaito",
-        "interaction": "僕達の出番だね"
+        "interaction": "僕達の見せ場だね"
       },
       "to": {
         "member_id": "vbs_akito",

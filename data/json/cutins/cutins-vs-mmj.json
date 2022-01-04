@@ -257,7 +257,7 @@
     {
       "from": {
         "member_id": "mmj_airi",
-        "interaction": "最高のわたし達を見せるわよ"
+        "interaction": "最高のわたし達をみせるわよ"
       },
       "to": {
         "member_id": "vs_luka",
@@ -358,7 +358,7 @@
       },
       "to": {
         "member_id": "vs_meiko",
-        "interaction": "流石アイドルね"
+        "interaction": "流石はアイドルね"
       },
       "file": "../data/cutin/mmj_airi_to_vs_meiko_1.mp3",
       "note": ""

@@ -55,7 +55,7 @@
       },
       "to": {
         "member_id": "ws_nene",
-        "interaction": "っていう時こそ注意しないと"
+        "interaction": "っていう時こそ、注意しないと"
       },
       "file": "../data/cutin/vs_rin_to_ws_nene_1.mp3",
       "note": ""
@@ -152,7 +152,7 @@
       },
       "to": {
         "member_id": "ws_nene",
-        "interaction": "え、あ、待って"
+        "interaction": "え、ま、待って"
       },
       "file": "../data/cutin/vs_len_to_ws_nene_1.mp3",
       "note": ""
@@ -201,7 +201,7 @@
       },
       "to": {
         "member_id": "ws_tsukasa",
-        "interaction": "はーっはっはっは。オレを呼んだか？"
+        "interaction": "はーっはっはっは、オレを呼んだか？"
       },
       "file": "../data/cutin/vs_luka_to_ws_tsukasa_1.mp3",
       "note": ""
@@ -382,7 +382,7 @@
       },
       "to": {
         "member_id": "vs_meiko",
-        "interaction": "ふふ、燃えてきちゃうね"
+        "interaction": "ふふ、燃えてきちゃうわね"
       },
       "file": "../data/cutin/ws_rui_to_vs_meiko_1.mp3",
       "note": ""

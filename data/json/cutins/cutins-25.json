@@ -67,7 +67,7 @@
       },
       "to": {
         "member_id": "25_miku",
-        "interaction": "うん、わたしも楽しい"
+        "interaction": "うん、私も楽しい"
       },
       "file": "../data/cutin/25_ena_to_25_miku_1.mp3",
       "note": ""
@@ -79,7 +79,7 @@
       },
       "to": {
         "member_id": "25_mizuki",
-        "interaction": "もちろん。ミクも楽しもうよ"
+        "interaction": "もちろん、ミクも楽しもうよ"
       },
       "file": "../data/cutin/25_miku_to_25_mizuki_1.mp3",
       "note": ""
@@ -189,7 +189,7 @@
       },
       "to": {
         "member_id": "25_mafuyu",
-        "interaction": "油断してると足元すくわれるよ"
+        "interaction": "油断してると足をすくわれるよ"
       },
       "file": "../data/cutin/25_ena_to_25_mafuyu_1.mp3",
       "note": ""

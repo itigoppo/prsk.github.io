@@ -3,7 +3,7 @@
     {
       "from": {
         "member_id": "vbs_miku",
-        "interaction": "いいね。ちょっとアドリブ入れたくなる"
+        "interaction": "いいね、ちょっとアドリブ入れたくなる"
       },
       "to": {
         "member_id": "vs_len",
@@ -172,7 +172,7 @@
     {
       "from": {
         "member_id": "vbs_kohane",
-        "interaction": "すごいね、緊張しないなんて"
+        "interaction": "すごいね、緊張してないなんて"
       },
       "to": {
         "member_id": "vbs_toya",

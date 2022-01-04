@@ -173,7 +173,7 @@
     {
       "from": {
         "member_id": "ln_shiho",
-        "interaction": "空気が一つになってる"
+        "interaction": "空気が、一つになってる"
       },
       "to": {
         "member_id": "ln_ichica",
@@ -186,7 +186,7 @@
     {
       "from": {
         "member_id": "ln_saki",
-        "interaction": "アタシの想いこの音に乗せて"
+        "interaction": "アタシの想い、この音に乗せて"
       },
       "to": {
         "member_id": "ln_honami",
@@ -210,7 +210,7 @@
     {
       "from": {
         "member_id": "ln_saki",
-        "interaction": "笑顔だよ、志歩ちゃん"
+        "interaction": "笑顔だよ、しほちゃん"
       },
       "to": {
         "member_id": "ln_shiho",
