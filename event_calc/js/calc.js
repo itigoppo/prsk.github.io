@@ -49,15 +49,15 @@ const calc = (card) => {
   }
 
   const rankRate = {
-    pu: 2,
-    star4: 2,
-    br: 1.5,
-    star3: 1,
-    star2: 0.2,
-    star1: 0.1,
+    pu: [0, 10, 11, 12, 13, 15],
+    star4: [0, 10, 11, 12, 13, 15],
+    br: [0, 5, 6, 7, 8, 10],
+    star3: [0, 1, 2, 3, 4, 5],
+    star2: [0, 0.2, 0.4, 0.6, 0.8, 1],
+    star1: [0, 0.1, 0.2, 0.3, 0.4, 0.5],
   };
   if (rankRate[rare] ?? false) {
-    bonus += rankRate[rare] * rank;
+    bonus += rankRate[rare][rank];
   }
 
   $('#' + card + ' .h5>span').html(bonus);
