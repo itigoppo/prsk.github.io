@@ -242,6 +242,31 @@
       },
       "file": "../data/cutin/25_mizuki_to_25_ena_1.mp3",
       "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "25_ena",
+        "interaction": "遅れないでよ瑞希"
+      },
+      "to": {
+        "member_id": "25_mizuki",
+        "interaction": "はいはい、絵名もね"
+      },
+      "file": "../data/cutin/25_ena_to_25_mizuki_2.mp3",
+      "note": "絵名と瑞希キズナLv16"
+    },
+    {
+      "from": {
+        "member_id": "25_mizuki",
+        "interaction": "はぁ、ちょっと休憩"
+      },
+      "to": {
+        "member_id": "25_ena",
+        "interaction": "あ、コラそこ、サボらない"
+      },
+      "file": "../data/cutin/25_mizuki_to_25_ena_2.mp3",
+      "note": "絵名と瑞希キズナLv16"
     }
   ]
 }

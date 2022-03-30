@@ -33,6 +33,10 @@ $(function () {
     showData();
   });
 
+  $("div#play-modal").on('show.bs.modal', function (event) {
+    eventPlayModal(event);
+  });
+
   // ページのトップに移動
   $("#page-top").on("click", function () {
     $('html, body').animate({scrollTop: 0}, 500);
@@ -174,48 +178,72 @@ const showData = () => {
   $("#cutin").addClass("d-none");
 
   const data = loadData();
-  $("#cutin").html("");
+  $("#cutin table tbody").html("");
 
   for (let [key, value] of Object.entries(data)) {
     let note = "";
     if (value.note !== "") {
       note = "<div class=\"card-footer text-muted text-end\">" + value.note + "</div>";
     }
-    $("#cutin").append("<div class=\"col-md-6 my-1\">"
-      + "<div class=\"card my-2\">"
-      + "<div class=\"card-body px-4\">"
-      + "<div class=\"row\">"
 
-      + "<div class=\"balloon left\">"
-      + "<div class=\"balloon-icon text-center\">"
-      + value.from.icon
-      + "</div>"
-      + "<div class=\"balloon-member\">" + value.from.name + "</div>"
-      + "<div class=\"balloon-side\">"
-      + "<div class=\"balloon-text\">" + value.from.interaction + "</div>"
-      + "</div></div>"
+    $("#cutin table tbody").append("<tr>"
+      + "<td>"
+      + "<button class=\"btn btn-sm btn-outline-secondary\" data-bs-toggle=\"modal\" data-bs-target=\"#play-modal\""
+      + " data-from-icon=\"" + escape(value.from.icon) + "\""
+      + " data-from-member=\"" + value.from.name + "\""
+      + " data-from-interaction=\"" + value.from.interaction + "\""
+      + " data-to-icon=\"" + escape(value.to.icon) + "\""
+      + " data-to-member=\"" + value.to.name + "\""
+      + " data-to-interaction=\"" + value.to.interaction + "\""
+      + " data-play-file=\"" + escape(value.file) + "\""
+      + ">"
+      + "<i class=\"bi bi-music-note-list\"></i>"
+      + "</button>"
+      + "</td>"
 
-      + "<div class=\"balloon right\">"
-      + "<div class=\"balloon-icon text-center\">"
-      + value.to.icon
-      + "</div>"
-      + "<div class=\"balloon-member\">" + value.to.name + "</div>"
-      + "<div class=\"balloon-side\">"
-      + "<div class=\"balloon-text\">" + value.to.interaction + "</div>"
-      + "</div></div>"
+      + "<td>"
+      + "<span class=\"badge me-2\" style=\"background-color: " + value.from.color + "\">" + value.from.name + "</span>"
+      + value.from.interaction
+      + "</td>"
 
-      + "</div>"
-      + "<div class=\"row mt-2\">"
-      + "<audio controls controlslist=\"nodownload\">"
-      + "<source src=\"" + value.file + "\" type=\"audio/mpeg\">"
-      + "</audio>"
-      + "</div></div>"
-      + note
-      + "</div></div>");
+      + "<td>"
+      + "<span class=\"badge me-2\" style=\"background-color: " + value.to.color + "\">" + value.to.name + "</span>"
+      + value.to.interaction
+      + "</td>"
+
+      + "<td>" + value.note + "</td>"
+      + "</tr>");
   }
 
   $("#loading").addClass("d-none");
   $("#cutin").removeClass("d-none");
+}
+
+const eventPlayModal = (event) => {
+  const button = event.relatedTarget;
+  const from = {
+    icon: button.getAttribute("data-from-icon"),
+    member: button.getAttribute("data-from-member"),
+    interaction: button.getAttribute("data-from-interaction"),
+  };
+  const to = {
+    icon: button.getAttribute("data-to-icon"),
+    member: button.getAttribute("data-to-member"),
+    interaction: button.getAttribute("data-to-interaction"),
+  };
+  const playModal =$("div#play-modal");
+  const playFrom = playModal.find("div.balloon.left");
+  const playTo = playModal.find("div.balloon.right");
+  playFrom.find("div.balloon-icon.text-center").html(unescape(from.icon));
+  playFrom.find("div.balloon-member").html(from.member);
+  playFrom.find("div.balloon-text").html(from.interaction);
+  playTo.find("div.balloon-icon.text-center").html(unescape(to.icon));
+  playTo.find("div.balloon-member").html(to.member);
+  playTo.find("div.balloon-text").html(to.interaction);
+
+  playModal.find("div.audio").html("<audio controls controlslist=\"nodownload\">"
+    + "<source src=\"" + unescape(button.getAttribute("data-play-file")) + "\" type=\"audio/mpeg\">"
+    + "</audio>");
 }
 
 const getShowFrom = () => {

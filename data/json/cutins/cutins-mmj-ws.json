@@ -48,6 +48,31 @@
       },
       "file": "../data/cutin/ws_emu_to_mmj_haruka_1.mp3",
       "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "えむちゃんここでスマイル！"
+      },
+      "to": {
+        "member_id": "ws_emu",
+        "interaction": "はい！にっこにこー"
+      },
+      "file": "../data/cutin/mmj_airi_to_ws_emu_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "ws_emu",
+        "interaction": "センパイ！お願いします！"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "わんわんーわんだほーい"
+      },
+      "file": "../data/cutin/ws_emu_to_mmj_airi_1.mp3",
+      "note": ""
     }
   ]
 }
