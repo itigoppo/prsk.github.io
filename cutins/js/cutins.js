@@ -183,7 +183,9 @@ const showData = () => {
   for (let [key, value] of Object.entries(data)) {
     let note = "";
     if (value.note !== "") {
-      note = "<div class=\"card-footer text-muted text-end\">" + value.note + "</div>";
+      note = "<button type=\"button\" class=\"btn btn-sm btn-outline-secondary\" data-bs-toggle=\"tooltip\" data-bs-placement=\"top\" title=\"" + value.note + "\">"
+        + "<i class=\"bi bi-info-lg\"></i>"
+        + "</button>";
     }
 
     $("#cutin table tbody").append("<tr>"
@@ -211,7 +213,7 @@ const showData = () => {
       + value.to.interaction
       + "</td>"
 
-      + "<td>" + value.note + "</td>"
+      + "<td>" + note + "</td>"
       + "</tr>");
   }
 
