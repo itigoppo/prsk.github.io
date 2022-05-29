@@ -3,7 +3,7 @@
     {
       "id": 1,
       "unit": "VIRTUAL SINGER",
-      "short": "バチャシン",
+      "short": "VS",
       "color": "#86cecb",
       "sp_bg": "../data/sp-bg/android_bg_unit01_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit01.png"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "unit": "Leo/need",
-      "short": "レオニ",
+      "short": "L/n",
       "color": "#4455dd",
       "sp_bg": "../data/sp-bg/android_bg_unit02_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit02.png"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "unit": "MORE MORE JUMP！",
-      "short": "モモジャン",
+      "short": "MMJ",
       "color": "#88dd44",
       "sp_bg": "../data/sp-bg/android_bg_unit03_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit03.png"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "unit": "Vivid BAD SQUAD",
-      "short": "ビビバス",
+      "short": "VBS",
       "color": "#ee1166",
       "sp_bg": "../data/sp-bg/android_bg_unit04_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit04.png"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "unit": "ワンダーランズ×ショウタイム",
-      "short": "ワンダショ",
+      "short": "W×S",
       "color": "#ff9900",
       "sp_bg": "../data/sp-bg/android_bg_unit05_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit05.png"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "unit": "25時、ナイトコードで。",
-      "short": "ニーゴ",
+      "short": "2500",
       "color": "#884499",
       "sp_bg": "../data/sp-bg/android_bg_unit06_02.png",
       "virtual_bg": "../data/sp-bg/virtual_bg_01_unit06.png"
