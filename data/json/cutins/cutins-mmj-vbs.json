@@ -96,6 +96,104 @@
       },
       "file": "../data/cutin/vbs_an_to_mmj_haruka_1.mp3",
       "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "杏ちゃんの隣、もらっちゃうわよ"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "えぇ、それはダメです"
+      },
+      "file": "../data/cutin/mmj_airi_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "どこまでも届くように"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "こはねちゃんの歌、すごい迫力だわ"
+      },
+      "file": "../data/cutin/vbs_kohane_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_airi",
+        "interaction": "すごい、プロ顔負けね"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "いえ、私なんてまだまだ"
+      },
+      "file": "../data/cutin/mmj_airi_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "アイドルの生歌が聞けるなんて"
+      },
+      "to": {
+        "member_id": "mmj_airi",
+        "interaction": "目一杯期待に応えちゃうわよ"
+      },
+      "file": "../data/cutin/vbs_an_to_mmj_airi_1.mp3",
+      "note": ""
+    },
+
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "素敵な笑顔ね、こはねちゃん"
+      },
+      "to": {
+        "member_id": "vbs_kohane",
+        "interaction": "えへへ、先輩と歌うの楽しくって"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vbs_kohane_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_kohane",
+        "interaction": "こ、ここでターンをして"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "ふふ、とっても可愛く踊れてるわよ"
+      },
+      "file": "../data/cutin/vbs_kohane_to_mmj_shizuku_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "mmj_shizuku",
+        "interaction": "とっても力強い歌声ね"
+      },
+      "to": {
+        "member_id": "vbs_an",
+        "interaction": "一番得意な歌い方なんです"
+      },
+      "file": "../data/cutin/mmj_shizuku_to_vbs_an_1.mp3",
+      "note": ""
+    },
+    {
+      "from": {
+        "member_id": "vbs_an",
+        "interaction": "盛り上げましょうね雫さん"
+      },
+      "to": {
+        "member_id": "mmj_shizuku",
+        "interaction": "えぇ、私達ならできるわ"
+      },
+      "file": "../data/cutin/vbs_an_to_mmj_shizuku_1.mp3",
+      "note": ""
     }
   ]
 }

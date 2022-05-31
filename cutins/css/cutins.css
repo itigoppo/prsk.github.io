@@ -127,3 +127,9 @@
   border-width: 8px 0 8px 10px;
   border-color: transparent transparent transparent #eee;
 }
+
+@media screen and (max-width:767.98px) {
+  #cutin {
+    width: 100% !important;
+  }
+}
