@@ -439,7 +439,7 @@
       "short": "レン",
       "image": "../data/icon/icon_03_unit01_len.png",
       "color": "#ffee11",
-      "is_active": false
+      "is_active": true
     },
     {
       "id": "25_luka",
@@ -466,7 +466,7 @@
       "short": "KAITO",
       "image": "../data/icon/icon_06_unit01_kaito.png",
       "color": "#3366cc",
-      "is_active": false
+      "is_active": true
     },
     {
       "id": "25_kanade",
