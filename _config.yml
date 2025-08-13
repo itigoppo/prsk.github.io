@@ -1,0 +1,24 @@
+title: プロセカ関係モノオキ
+description: プロセカ関係なんかやりたくなったらつくるところ
+lang: ja
+
+# 本番URLとベースパス
+baseurl: "/prsk.github.io"
+url: "https://itigoppo.github.io"
+
+# 出力設定
+markdown: kramdown
+theme: minima # テーマを使うなら。オリジナルなら不要
+permalink: pretty
+
+# ビルド時に含めないファイル
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .gitignore
+
+# GitHub Pages で使えるプラグインのみ指定可（それ以外は無視される）
+plugins:
+  - jekyll-seo-tag
