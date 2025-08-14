@@ -1,4 +1,79 @@
 ---
 layout: default
 title: リーダー回数
+css: |
+  <link rel="stylesheet" href="./css/leader.css" />
+js: |
+  <script src="https://cdn.jsdelivr.net/npm/chart.js" crossorigin="anonymous"></script>
+  <script src="./js/leader.js" crossorigin="anonymous"></script>
 ---
+
+<div class="container-fluid">
+  <div id="loading" class="d-flex justify-content-center my-3">
+    <div class="spinner-grow text-info mx-3" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+    <div class="spinner-grow text-info mx-3" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+    <div class="spinner-grow text-info mx-3" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+  </div>
+
+  <div id="content" class="mx-auto d-none">
+    <div>
+      <div id="lineChartSearch" class="row form-group my-3">
+        <div class="row mb-2">
+          <div class="col">
+            <select id="lineChartMonthRangeSelect" class="form-select">
+              <option value="all">すべて</option>
+              <option value="12">直近12ヶ月</option>
+              <option value="9">直近9ヶ月</option>
+              <option value="6">直近6ヶ月</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col" id="lineChartMember"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12" style="height: 500px">
+          <canvas id="lineChart" class="vw-100"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-5">
+      <div id="diffBarChartSearch" class="row form-group my-3">
+        <div class="row mb-2">
+          <div class="col">
+            <select id="diffBarChartMonthRangeSelect" class="form-select">
+              <option value="all">すべて</option>
+              <option value="12">直近12ヶ月</option>
+              <option value="9">直近9ヶ月</option>
+              <option value="6">直近6ヶ月</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col" id="diffBarChartMember"></div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12" style="height: 700px">
+          <canvas id="diffBarChart" class="vw-100"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-5 table-responsive">
+      <div id="diffTableContainer"></div>
+    </div>
+  </div>
+</div>
